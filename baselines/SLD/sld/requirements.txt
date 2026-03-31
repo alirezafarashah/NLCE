@@ -1,0 +1,6 @@
+diffusers==0.14.0
+transformers==4.26.1
+accelerate==0.17.1
+torch>=1.12.0
+torchvision
+Pillow<10.0

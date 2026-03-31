@@ -1,0 +1,10 @@
+diffusers==0.30.3
+einops==0.8.1
+pandas==2.2.3
+Pillow==11.1.0
+pytorch_fid==0.3.0
+safetensors==0.5.3
+torch==2.0.1
+tqdm==4.67.1
+transformers==4.36.1
+numpy==1.26.4

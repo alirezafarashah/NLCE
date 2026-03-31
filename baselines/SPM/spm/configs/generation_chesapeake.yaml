@@ -1,0 +1,8 @@
+negative_prompt: ""
+unconditional_prompt: ""                    # e.g. hires, masterpieces, etc.
+width: 512
+height: 512
+num_inference_steps: 50
+guidance_scale: 7.5
+generate_num: 1
+save_path: "generated_images/chesapeake/"     # should be a template, will be formatted with prompt and generation number

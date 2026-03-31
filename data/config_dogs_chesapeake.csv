@@ -1,0 +1,2351 @@
+species,prompt,seed,type
+Chihuahua,A realistic image of a Chihuahua dog,1,other
+Chihuahua,A realistic image of a Chihuahua dog,4,other
+Chihuahua,A realistic image of a Chihuahua dog,5,other
+Chihuahua,A realistic image of a Chihuahua dog,6,other
+Chihuahua,A realistic image of a Chihuahua dog,7,other
+Chihuahua,A photo of a Chihuahua dog in a grassy field,0,other
+Chihuahua,A photo of a Chihuahua dog in a grassy field,2,other
+Chihuahua,A photo of a Chihuahua dog in a grassy field,3,other
+Chihuahua,A photo of a Chihuahua dog in a grassy field,4,other
+Chihuahua,A photo of a Chihuahua dog in a grassy field,5,other
+Chihuahua,A studio photograph of a Chihuahua dog on a plain background,1,other
+Chihuahua,A studio photograph of a Chihuahua dog on a plain background,2,other
+Chihuahua,A studio photograph of a Chihuahua dog on a plain background,4,other
+Chihuahua,A studio photograph of a Chihuahua dog on a plain background,6,other
+Chihuahua,A studio photograph of a Chihuahua dog on a plain background,8,other
+Chihuahua,An action shot of a Chihuahua dog running outdoors,0,other
+Chihuahua,An action shot of a Chihuahua dog running outdoors,1,other
+Chihuahua,An action shot of a Chihuahua dog running outdoors,2,other
+Chihuahua,An action shot of a Chihuahua dog running outdoors,3,other
+Chihuahua,An action shot of a Chihuahua dog running outdoors,4,other
+Chihuahua,A close-up photo of a Chihuahua dog looking at the camera,1,other
+Chihuahua,A close-up photo of a Chihuahua dog looking at the camera,3,other
+Chihuahua,A close-up photo of a Chihuahua dog looking at the camera,4,other
+Chihuahua,A close-up photo of a Chihuahua dog looking at the camera,6,other
+Chihuahua,A close-up photo of a Chihuahua dog looking at the camera,10,other
+Maltese Dog,A realistic image of a Maltese Dog dog,0,other
+Maltese Dog,A realistic image of a Maltese Dog dog,1,other
+Maltese Dog,A realistic image of a Maltese Dog dog,2,other
+Maltese Dog,A realistic image of a Maltese Dog dog,3,other
+Maltese Dog,A realistic image of a Maltese Dog dog,5,other
+Maltese Dog,A photo of a Maltese Dog dog in a grassy field,0,other
+Maltese Dog,A photo of a Maltese Dog dog in a grassy field,1,other
+Maltese Dog,A photo of a Maltese Dog dog in a grassy field,2,other
+Maltese Dog,A photo of a Maltese Dog dog in a grassy field,3,other
+Maltese Dog,A photo of a Maltese Dog dog in a grassy field,4,other
+Maltese Dog,A studio photograph of a Maltese Dog dog on a plain background,0,other
+Maltese Dog,A studio photograph of a Maltese Dog dog on a plain background,1,other
+Maltese Dog,A studio photograph of a Maltese Dog dog on a plain background,2,other
+Maltese Dog,A studio photograph of a Maltese Dog dog on a plain background,3,other
+Maltese Dog,A studio photograph of a Maltese Dog dog on a plain background,4,other
+Maltese Dog,An action shot of a Maltese Dog dog running outdoors,0,other
+Maltese Dog,An action shot of a Maltese Dog dog running outdoors,2,other
+Maltese Dog,An action shot of a Maltese Dog dog running outdoors,5,other
+Maltese Dog,An action shot of a Maltese Dog dog running outdoors,6,other
+Maltese Dog,An action shot of a Maltese Dog dog running outdoors,7,other
+Maltese Dog,A close-up photo of a Maltese Dog dog looking at the camera,0,other
+Maltese Dog,A close-up photo of a Maltese Dog dog looking at the camera,1,other
+Maltese Dog,A close-up photo of a Maltese Dog dog looking at the camera,3,other
+Maltese Dog,A close-up photo of a Maltese Dog dog looking at the camera,4,other
+Maltese Dog,A close-up photo of a Maltese Dog dog looking at the camera,5,other
+Pekinese,A realistic image of a Pekinese dog,1,other
+Pekinese,A realistic image of a Pekinese dog,2,other
+Pekinese,A realistic image of a Pekinese dog,5,other
+Pekinese,A realistic image of a Pekinese dog,6,other
+Pekinese,A realistic image of a Pekinese dog,7,other
+Pekinese,A photo of a Pekinese dog in a grassy field,0,other
+Pekinese,A photo of a Pekinese dog in a grassy field,2,other
+Pekinese,A photo of a Pekinese dog in a grassy field,3,other
+Pekinese,A photo of a Pekinese dog in a grassy field,9,other
+Pekinese,A studio photograph of a Pekinese dog on a plain background,0,other
+Pekinese,A studio photograph of a Pekinese dog on a plain background,1,other
+Pekinese,A studio photograph of a Pekinese dog on a plain background,9,other
+Pekinese,An action shot of a Pekinese dog running outdoors,0,other
+Pekinese,An action shot of a Pekinese dog running outdoors,2,other
+Pekinese,An action shot of a Pekinese dog running outdoors,3,other
+Pekinese,An action shot of a Pekinese dog running outdoors,4,other
+Pekinese,An action shot of a Pekinese dog running outdoors,5,other
+Pekinese,A close-up photo of a Pekinese dog looking at the camera,2,other
+Pekinese,A photo of a Pekinese dog in a grassy field,10,other
+Pekinese,A studio photograph of a Pekinese dog on a plain background,11,other
+Pekinese,A studio photograph of a Pekinese dog on a plain background,12,other
+Pekinese,A close-up photo of a Pekinese dog looking at the camera,12,other
+Pekinese,A close-up photo of a Pekinese dog looking at the camera,13,other
+Pekinese,A close-up photo of a Pekinese dog looking at the camera,15,other
+Pekinese,A close-up photo of a Pekinese dog looking at the camera,17,other
+Blenheim Spaniel,A realistic image of a Blenheim Spaniel dog,0,other
+Blenheim Spaniel,A realistic image of a Blenheim Spaniel dog,1,other
+Blenheim Spaniel,A realistic image of a Blenheim Spaniel dog,2,other
+Blenheim Spaniel,A realistic image of a Blenheim Spaniel dog,3,other
+Blenheim Spaniel,A realistic image of a Blenheim Spaniel dog,4,other
+Blenheim Spaniel,A photo of a Blenheim Spaniel dog in a grassy field,0,other
+Blenheim Spaniel,A photo of a Blenheim Spaniel dog in a grassy field,1,other
+Blenheim Spaniel,A photo of a Blenheim Spaniel dog in a grassy field,2,other
+Blenheim Spaniel,A photo of a Blenheim Spaniel dog in a grassy field,3,other
+Blenheim Spaniel,A photo of a Blenheim Spaniel dog in a grassy field,4,other
+Blenheim Spaniel,A studio photograph of a Blenheim Spaniel dog on a plain background,0,other
+Blenheim Spaniel,A studio photograph of a Blenheim Spaniel dog on a plain background,1,other
+Blenheim Spaniel,A studio photograph of a Blenheim Spaniel dog on a plain background,2,other
+Blenheim Spaniel,A studio photograph of a Blenheim Spaniel dog on a plain background,4,other
+Blenheim Spaniel,A studio photograph of a Blenheim Spaniel dog on a plain background,5,other
+Blenheim Spaniel,An action shot of a Blenheim Spaniel dog running outdoors,2,other
+Blenheim Spaniel,An action shot of a Blenheim Spaniel dog running outdoors,6,other
+Blenheim Spaniel,An action shot of a Blenheim Spaniel dog running outdoors,7,other
+Blenheim Spaniel,A close-up photo of a Blenheim Spaniel dog looking at the camera,0,other
+Blenheim Spaniel,A close-up photo of a Blenheim Spaniel dog looking at the camera,1,other
+Blenheim Spaniel,A close-up photo of a Blenheim Spaniel dog looking at the camera,5,other
+Blenheim Spaniel,A close-up photo of a Blenheim Spaniel dog looking at the camera,6,other
+Blenheim Spaniel,An action shot of a Blenheim Spaniel dog running outdoors,10,other
+Blenheim Spaniel,An action shot of a Blenheim Spaniel dog running outdoors,16,other
+Blenheim Spaniel,A close-up photo of a Blenheim Spaniel dog looking at the camera,10,other
+Papillon,A realistic image of a Papillon dog,0,other
+Papillon,A realistic image of a Papillon dog,1,other
+Papillon,A realistic image of a Papillon dog,2,other
+Papillon,A realistic image of a Papillon dog,3,other
+Papillon,A realistic image of a Papillon dog,4,other
+Papillon,A photo of a Papillon dog in a grassy field,0,other
+Papillon,A photo of a Papillon dog in a grassy field,1,other
+Papillon,A photo of a Papillon dog in a grassy field,2,other
+Papillon,A photo of a Papillon dog in a grassy field,3,other
+Papillon,A photo of a Papillon dog in a grassy field,4,other
+Papillon,A studio photograph of a Papillon dog on a plain background,0,other
+Papillon,A studio photograph of a Papillon dog on a plain background,1,other
+Papillon,A studio photograph of a Papillon dog on a plain background,2,other
+Papillon,A studio photograph of a Papillon dog on a plain background,3,other
+Papillon,A studio photograph of a Papillon dog on a plain background,4,other
+Papillon,An action shot of a Papillon dog running outdoors,0,other
+Papillon,An action shot of a Papillon dog running outdoors,1,other
+Papillon,An action shot of a Papillon dog running outdoors,2,other
+Papillon,An action shot of a Papillon dog running outdoors,3,other
+Papillon,An action shot of a Papillon dog running outdoors,4,other
+Papillon,A close-up photo of a Papillon dog looking at the camera,0,other
+Papillon,A close-up photo of a Papillon dog looking at the camera,1,other
+Papillon,A close-up photo of a Papillon dog looking at the camera,2,other
+Papillon,A close-up photo of a Papillon dog looking at the camera,3,other
+Papillon,A close-up photo of a Papillon dog looking at the camera,5,other
+Rhodesian Ridgeback,A realistic image of a Rhodesian Ridgeback dog,0,other
+Rhodesian Ridgeback,A realistic image of a Rhodesian Ridgeback dog,4,other
+Rhodesian Ridgeback,A realistic image of a Rhodesian Ridgeback dog,5,other
+Rhodesian Ridgeback,A realistic image of a Rhodesian Ridgeback dog,6,other
+Rhodesian Ridgeback,A realistic image of a Rhodesian Ridgeback dog,7,other
+Rhodesian Ridgeback,A photo of a Rhodesian Ridgeback dog in a grassy field,0,other
+Rhodesian Ridgeback,A photo of a Rhodesian Ridgeback dog in a grassy field,1,other
+Rhodesian Ridgeback,A photo of a Rhodesian Ridgeback dog in a grassy field,2,other
+Rhodesian Ridgeback,A photo of a Rhodesian Ridgeback dog in a grassy field,3,other
+Rhodesian Ridgeback,A photo of a Rhodesian Ridgeback dog in a grassy field,4,other
+Rhodesian Ridgeback,A studio photograph of a Rhodesian Ridgeback dog on a plain background,0,other
+Rhodesian Ridgeback,A studio photograph of a Rhodesian Ridgeback dog on a plain background,1,other
+Rhodesian Ridgeback,A studio photograph of a Rhodesian Ridgeback dog on a plain background,2,other
+Rhodesian Ridgeback,A studio photograph of a Rhodesian Ridgeback dog on a plain background,3,other
+Rhodesian Ridgeback,A studio photograph of a Rhodesian Ridgeback dog on a plain background,4,other
+Rhodesian Ridgeback,An action shot of a Rhodesian Ridgeback dog running outdoors,1,other
+Rhodesian Ridgeback,An action shot of a Rhodesian Ridgeback dog running outdoors,2,other
+Rhodesian Ridgeback,An action shot of a Rhodesian Ridgeback dog running outdoors,3,other
+Rhodesian Ridgeback,An action shot of a Rhodesian Ridgeback dog running outdoors,4,other
+Rhodesian Ridgeback,An action shot of a Rhodesian Ridgeback dog running outdoors,6,other
+Rhodesian Ridgeback,A close-up photo of a Rhodesian Ridgeback dog looking at the camera,0,other
+Rhodesian Ridgeback,A close-up photo of a Rhodesian Ridgeback dog looking at the camera,2,other
+Rhodesian Ridgeback,A close-up photo of a Rhodesian Ridgeback dog looking at the camera,4,other
+Rhodesian Ridgeback,A close-up photo of a Rhodesian Ridgeback dog looking at the camera,5,other
+Rhodesian Ridgeback,A close-up photo of a Rhodesian Ridgeback dog looking at the camera,6,other
+Afghan Hound,A realistic image of a Afghan Hound dog,6,other
+Afghan Hound,A realistic image of a Afghan Hound dog,7,other
+Afghan Hound,A realistic image of a Afghan Hound dog,8,other
+Afghan Hound,A photo of a Afghan Hound dog in a grassy field,0,other
+Afghan Hound,A photo of a Afghan Hound dog in a grassy field,2,other
+Afghan Hound,A photo of a Afghan Hound dog in a grassy field,4,other
+Afghan Hound,A photo of a Afghan Hound dog in a grassy field,5,other
+Afghan Hound,A photo of a Afghan Hound dog in a grassy field,6,other
+Afghan Hound,A studio photograph of a Afghan Hound dog on a plain background,1,other
+Afghan Hound,A studio photograph of a Afghan Hound dog on a plain background,5,other
+Afghan Hound,A studio photograph of a Afghan Hound dog on a plain background,6,other
+Afghan Hound,A studio photograph of a Afghan Hound dog on a plain background,8,other
+Afghan Hound,A studio photograph of a Afghan Hound dog on a plain background,9,other
+Afghan Hound,An action shot of a Afghan Hound dog running outdoors,0,other
+Afghan Hound,An action shot of a Afghan Hound dog running outdoors,1,other
+Afghan Hound,An action shot of a Afghan Hound dog running outdoors,4,other
+Afghan Hound,An action shot of a Afghan Hound dog running outdoors,5,other
+Afghan Hound,A close-up photo of a Afghan Hound dog looking at the camera,7,other
+Afghan Hound,A realistic image of a Afghan Hound dog,11,other
+Afghan Hound,A realistic image of a Afghan Hound dog,14,other
+Afghan Hound,An action shot of a Afghan Hound dog running outdoors,10,other
+Afghan Hound,A close-up photo of a Afghan Hound dog looking at the camera,14,other
+Afghan Hound,A close-up photo of a Afghan Hound dog looking at the camera,16,other
+Afghan Hound,A close-up photo of a Afghan Hound dog looking at the camera,20,other
+Afghan Hound,A close-up photo of a Afghan Hound dog looking at the camera,21,other
+Basset,A realistic image of a Basset dog,0,other
+Basset,A realistic image of a Basset dog,2,other
+Basset,A realistic image of a Basset dog,4,other
+Basset,A realistic image of a Basset dog,7,other
+Basset,A realistic image of a Basset dog,8,other
+Basset,A photo of a Basset dog in a grassy field,0,other
+Basset,A photo of a Basset dog in a grassy field,2,other
+Basset,A photo of a Basset dog in a grassy field,3,other
+Basset,A photo of a Basset dog in a grassy field,4,other
+Basset,A photo of a Basset dog in a grassy field,5,other
+Basset,A studio photograph of a Basset dog on a plain background,0,other
+Basset,A studio photograph of a Basset dog on a plain background,2,other
+Basset,A studio photograph of a Basset dog on a plain background,4,other
+Basset,A studio photograph of a Basset dog on a plain background,5,other
+Basset,A studio photograph of a Basset dog on a plain background,6,other
+Basset,An action shot of a Basset dog running outdoors,0,other
+Basset,An action shot of a Basset dog running outdoors,2,other
+Basset,An action shot of a Basset dog running outdoors,3,other
+Basset,An action shot of a Basset dog running outdoors,6,other
+Basset,An action shot of a Basset dog running outdoors,7,other
+Basset,A close-up photo of a Basset dog looking at the camera,9,other
+Basset,A close-up photo of a Basset dog looking at the camera,13,other
+Basset,A close-up photo of a Basset dog looking at the camera,16,other
+Basset,A close-up photo of a Basset dog looking at the camera,17,other
+Basset,A close-up photo of a Basset dog looking at the camera,18,other
+Beagle,A realistic image of a Beagle dog,0,other
+Beagle,A realistic image of a Beagle dog,1,other
+Beagle,A realistic image of a Beagle dog,3,other
+Beagle,A realistic image of a Beagle dog,5,other
+Beagle,A realistic image of a Beagle dog,7,other
+Beagle,A photo of a Beagle dog in a grassy field,1,other
+Beagle,A photo of a Beagle dog in a grassy field,2,other
+Beagle,A photo of a Beagle dog in a grassy field,5,other
+Beagle,A photo of a Beagle dog in a grassy field,6,other
+Beagle,A photo of a Beagle dog in a grassy field,7,other
+Beagle,A studio photograph of a Beagle dog on a plain background,0,other
+Beagle,A studio photograph of a Beagle dog on a plain background,1,other
+Beagle,A studio photograph of a Beagle dog on a plain background,2,other
+Beagle,A studio photograph of a Beagle dog on a plain background,5,other
+Beagle,A studio photograph of a Beagle dog on a plain background,6,other
+Beagle,An action shot of a Beagle dog running outdoors,0,other
+Beagle,An action shot of a Beagle dog running outdoors,1,other
+Beagle,An action shot of a Beagle dog running outdoors,2,other
+Beagle,An action shot of a Beagle dog running outdoors,5,other
+Beagle,An action shot of a Beagle dog running outdoors,6,other
+Beagle,A close-up photo of a Beagle dog looking at the camera,0,other
+Beagle,A close-up photo of a Beagle dog looking at the camera,1,other
+Beagle,A close-up photo of a Beagle dog looking at the camera,2,other
+Beagle,A close-up photo of a Beagle dog looking at the camera,4,other
+Beagle,A close-up photo of a Beagle dog looking at the camera,5,other
+Bloodhound,A realistic image of a Bloodhound dog,2,other
+Bloodhound,A realistic image of a Bloodhound dog,5,other
+Bloodhound,A photo of a Bloodhound dog in a grassy field,0,other
+Bloodhound,A photo of a Bloodhound dog in a grassy field,2,other
+Bloodhound,A photo of a Bloodhound dog in a grassy field,3,other
+Bloodhound,A photo of a Bloodhound dog in a grassy field,5,other
+Bloodhound,A photo of a Bloodhound dog in a grassy field,6,other
+Bloodhound,A studio photograph of a Bloodhound dog on a plain background,2,other
+Bloodhound,A studio photograph of a Bloodhound dog on a plain background,5,other
+Bloodhound,A studio photograph of a Bloodhound dog on a plain background,7,other
+Bloodhound,An action shot of a Bloodhound dog running outdoors,2,other
+Bloodhound,An action shot of a Bloodhound dog running outdoors,4,other
+Bloodhound,An action shot of a Bloodhound dog running outdoors,5,other
+Bloodhound,A realistic image of a Bloodhound dog,10,other
+Bloodhound,A realistic image of a Bloodhound dog,11,other
+Bloodhound,A realistic image of a Bloodhound dog,12,other
+Bloodhound,A studio photograph of a Bloodhound dog on a plain background,13,other
+Bloodhound,A studio photograph of a Bloodhound dog on a plain background,15,other
+Bloodhound,An action shot of a Bloodhound dog running outdoors,11,other
+Bloodhound,An action shot of a Bloodhound dog running outdoors,13,other
+Bloodhound,A close-up photo of a Bloodhound dog looking at the camera,11,other
+Bloodhound,A close-up photo of a Bloodhound dog looking at the camera,21,other
+Bloodhound,A close-up photo of a Bloodhound dog looking at the camera,30,other
+Bloodhound,A close-up photo of a Bloodhound dog looking at the camera,31,other
+Bloodhound,A close-up photo of a Bloodhound dog looking at the camera,37,other
+Bluetick,A realistic image of a Bluetick dog,1,other
+Bluetick,A photo of a Bluetick dog in a grassy field,9,other
+Bluetick,A studio photograph of a Bluetick dog on a plain background,1,other
+Bluetick,An action shot of a Bluetick dog running outdoors,5,other
+Bluetick,A close-up photo of a Bluetick dog looking at the camera,1,other
+Bluetick,A realistic image of a Bluetick dog,14,other
+Bluetick,A studio photograph of a Bluetick dog on a plain background,15,other
+Bluetick,A close-up photo of a Bluetick dog looking at the camera,15,other
+Bluetick,A close-up photo of a Bluetick dog looking at the camera,16,other
+Bluetick,A close-up photo of a Bluetick dog looking at the camera,19,other
+Bluetick,A realistic image of a Bluetick dog,20,other
+Bluetick,A photo of a Bluetick dog in a grassy field,20,other
+Bluetick,A photo of a Bluetick dog in a grassy field,26,other
+Bluetick,A photo of a Bluetick dog in a grassy field,28,other
+Bluetick,A studio photograph of a Bluetick dog on a plain background,23,other
+Bluetick,A close-up photo of a Bluetick dog looking at the camera,20,other
+Bluetick,A photo of a Bluetick dog in a grassy field,33,other
+Bluetick,A studio photograph of a Bluetick dog on a plain background,38,other
+Bluetick,A studio photograph of a Bluetick dog on a plain background,47,other
+Bluetick,An action shot of a Bluetick dog running outdoors,41,other
+Bluetick,An action shot of a Bluetick dog running outdoors,43,other
+Bluetick,An action shot of a Bluetick dog running outdoors,45,other
+Bluetick,An action shot of a Bluetick dog running outdoors,47,other
+Bluetick,A realistic image of a Bluetick dog,50,other
+Bluetick,A realistic image of a Bluetick dog,52,other
+Walker Hound,A realistic image of a Walker Hound dog,1,other
+Walker Hound,A realistic image of a Walker Hound dog,2,other
+Walker Hound,A realistic image of a Walker Hound dog,4,other
+Walker Hound,A realistic image of a Walker Hound dog,8,other
+Walker Hound,A photo of a Walker Hound dog in a grassy field,0,other
+Walker Hound,A photo of a Walker Hound dog in a grassy field,1,other
+Walker Hound,A photo of a Walker Hound dog in a grassy field,7,other
+Walker Hound,A studio photograph of a Walker Hound dog on a plain background,1,other
+Walker Hound,A studio photograph of a Walker Hound dog on a plain background,2,other
+Walker Hound,A studio photograph of a Walker Hound dog on a plain background,9,other
+Walker Hound,An action shot of a Walker Hound dog running outdoors,2,other
+Walker Hound,An action shot of a Walker Hound dog running outdoors,4,other
+Walker Hound,A close-up photo of a Walker Hound dog looking at the camera,5,other
+Walker Hound,A realistic image of a Walker Hound dog,11,other
+Walker Hound,A photo of a Walker Hound dog in a grassy field,12,other
+Walker Hound,A photo of a Walker Hound dog in a grassy field,13,other
+Walker Hound,A studio photograph of a Walker Hound dog on a plain background,11,other
+Walker Hound,A studio photograph of a Walker Hound dog on a plain background,12,other
+Walker Hound,An action shot of a Walker Hound dog running outdoors,12,other
+Walker Hound,An action shot of a Walker Hound dog running outdoors,14,other
+Walker Hound,An action shot of a Walker Hound dog running outdoors,17,other
+Walker Hound,A close-up photo of a Walker Hound dog looking at the camera,11,other
+Walker Hound,A close-up photo of a Walker Hound dog looking at the camera,12,other
+Walker Hound,A close-up photo of a Walker Hound dog looking at the camera,18,other
+Walker Hound,A close-up photo of a Walker Hound dog looking at the camera,21,other
+English Foxhound,A realistic image of a English Foxhound dog,1,other
+English Foxhound,A realistic image of a English Foxhound dog,2,other
+English Foxhound,A realistic image of a English Foxhound dog,4,other
+English Foxhound,A realistic image of a English Foxhound dog,6,other
+English Foxhound,A realistic image of a English Foxhound dog,8,other
+English Foxhound,A photo of a English Foxhound dog in a grassy field,0,other
+English Foxhound,A photo of a English Foxhound dog in a grassy field,1,other
+English Foxhound,A photo of a English Foxhound dog in a grassy field,4,other
+English Foxhound,A photo of a English Foxhound dog in a grassy field,5,other
+English Foxhound,A photo of a English Foxhound dog in a grassy field,6,other
+English Foxhound,A studio photograph of a English Foxhound dog on a plain background,1,other
+English Foxhound,A studio photograph of a English Foxhound dog on a plain background,4,other
+English Foxhound,A studio photograph of a English Foxhound dog on a plain background,6,other
+English Foxhound,A studio photograph of a English Foxhound dog on a plain background,7,other
+English Foxhound,A studio photograph of a English Foxhound dog on a plain background,8,other
+English Foxhound,An action shot of a English Foxhound dog running outdoors,0,other
+English Foxhound,An action shot of a English Foxhound dog running outdoors,1,other
+English Foxhound,An action shot of a English Foxhound dog running outdoors,4,other
+English Foxhound,An action shot of a English Foxhound dog running outdoors,6,other
+English Foxhound,An action shot of a English Foxhound dog running outdoors,10,other
+English Foxhound,A close-up photo of a English Foxhound dog looking at the camera,10,other
+English Foxhound,A close-up photo of a English Foxhound dog looking at the camera,17,other
+English Foxhound,A close-up photo of a English Foxhound dog looking at the camera,19,other
+English Foxhound,A close-up photo of a English Foxhound dog looking at the camera,21,other
+English Foxhound,A close-up photo of a English Foxhound dog looking at the camera,26,other
+Redbone,A realistic image of a Redbone dog,0,other
+Redbone,A realistic image of a Redbone dog,1,other
+Redbone,A realistic image of a Redbone dog,2,other
+Redbone,A realistic image of a Redbone dog,4,other
+Redbone,A realistic image of a Redbone dog,6,other
+Redbone,A photo of a Redbone dog in a grassy field,0,other
+Redbone,A photo of a Redbone dog in a grassy field,2,other
+Redbone,A photo of a Redbone dog in a grassy field,6,other
+Redbone,A studio photograph of a Redbone dog on a plain background,3,other
+Redbone,A studio photograph of a Redbone dog on a plain background,4,other
+Redbone,A studio photograph of a Redbone dog on a plain background,6,other
+Redbone,A studio photograph of a Redbone dog on a plain background,7,other
+Redbone,A studio photograph of a Redbone dog on a plain background,9,other
+Redbone,An action shot of a Redbone dog running outdoors,1,other
+Redbone,An action shot of a Redbone dog running outdoors,6,other
+Redbone,A close-up photo of a Redbone dog looking at the camera,1,other
+Redbone,A close-up photo of a Redbone dog looking at the camera,2,other
+Redbone,A close-up photo of a Redbone dog looking at the camera,3,other
+Redbone,A close-up photo of a Redbone dog looking at the camera,4,other
+Redbone,A close-up photo of a Redbone dog looking at the camera,6,other
+Redbone,A photo of a Redbone dog in a grassy field,11,other
+Redbone,A photo of a Redbone dog in a grassy field,14,other
+Redbone,An action shot of a Redbone dog running outdoors,16,other
+Redbone,An action shot of a Redbone dog running outdoors,22,other
+Redbone,An action shot of a Redbone dog running outdoors,27,other
+Borzoi,A realistic image of a Borzoi dog,2,other
+Borzoi,A realistic image of a Borzoi dog,3,other
+Borzoi,A realistic image of a Borzoi dog,4,other
+Borzoi,A realistic image of a Borzoi dog,6,other
+Borzoi,A realistic image of a Borzoi dog,8,other
+Borzoi,A photo of a Borzoi dog in a grassy field,1,other
+Borzoi,A photo of a Borzoi dog in a grassy field,2,other
+Borzoi,A photo of a Borzoi dog in a grassy field,3,other
+Borzoi,A photo of a Borzoi dog in a grassy field,4,other
+Borzoi,A photo of a Borzoi dog in a grassy field,5,other
+Borzoi,A studio photograph of a Borzoi dog on a plain background,0,other
+Borzoi,A studio photograph of a Borzoi dog on a plain background,1,other
+Borzoi,A studio photograph of a Borzoi dog on a plain background,2,other
+Borzoi,A studio photograph of a Borzoi dog on a plain background,3,other
+Borzoi,A studio photograph of a Borzoi dog on a plain background,4,other
+Borzoi,An action shot of a Borzoi dog running outdoors,0,other
+Borzoi,An action shot of a Borzoi dog running outdoors,1,other
+Borzoi,An action shot of a Borzoi dog running outdoors,8,other
+Borzoi,An action shot of a Borzoi dog running outdoors,9,other
+Borzoi,A close-up photo of a Borzoi dog looking at the camera,5,other
+Borzoi,A close-up photo of a Borzoi dog looking at the camera,6,other
+Borzoi,A close-up photo of a Borzoi dog looking at the camera,7,other
+Borzoi,A close-up photo of a Borzoi dog looking at the camera,8,other
+Borzoi,An action shot of a Borzoi dog running outdoors,10,other
+Borzoi,A close-up photo of a Borzoi dog looking at the camera,11,other
+Italian Greyhound,A realistic image of a Italian Greyhound dog,0,other
+Italian Greyhound,A realistic image of a Italian Greyhound dog,1,other
+Italian Greyhound,A realistic image of a Italian Greyhound dog,2,other
+Italian Greyhound,A realistic image of a Italian Greyhound dog,3,other
+Italian Greyhound,A realistic image of a Italian Greyhound dog,4,other
+Italian Greyhound,A photo of a Italian Greyhound dog in a grassy field,0,other
+Italian Greyhound,A photo of a Italian Greyhound dog in a grassy field,2,other
+Italian Greyhound,A photo of a Italian Greyhound dog in a grassy field,3,other
+Italian Greyhound,A photo of a Italian Greyhound dog in a grassy field,4,other
+Italian Greyhound,A photo of a Italian Greyhound dog in a grassy field,5,other
+Italian Greyhound,A studio photograph of a Italian Greyhound dog on a plain background,0,other
+Italian Greyhound,A studio photograph of a Italian Greyhound dog on a plain background,1,other
+Italian Greyhound,A studio photograph of a Italian Greyhound dog on a plain background,2,other
+Italian Greyhound,A studio photograph of a Italian Greyhound dog on a plain background,3,other
+Italian Greyhound,A studio photograph of a Italian Greyhound dog on a plain background,4,other
+Italian Greyhound,An action shot of a Italian Greyhound dog running outdoors,1,other
+Italian Greyhound,An action shot of a Italian Greyhound dog running outdoors,2,other
+Italian Greyhound,An action shot of a Italian Greyhound dog running outdoors,4,other
+Italian Greyhound,An action shot of a Italian Greyhound dog running outdoors,5,other
+Italian Greyhound,An action shot of a Italian Greyhound dog running outdoors,6,other
+Italian Greyhound,A close-up photo of a Italian Greyhound dog looking at the camera,0,other
+Italian Greyhound,A close-up photo of a Italian Greyhound dog looking at the camera,1,other
+Italian Greyhound,A close-up photo of a Italian Greyhound dog looking at the camera,2,other
+Italian Greyhound,A close-up photo of a Italian Greyhound dog looking at the camera,3,other
+Italian Greyhound,A close-up photo of a Italian Greyhound dog looking at the camera,4,other
+Whippet,A realistic image of a Whippet dog,0,other
+Whippet,A realistic image of a Whippet dog,2,other
+Whippet,A photo of a Whippet dog in a grassy field,3,other
+Whippet,A photo of a Whippet dog in a grassy field,8,other
+Whippet,A studio photograph of a Whippet dog on a plain background,3,other
+Whippet,An action shot of a Whippet dog running outdoors,3,other
+Whippet,An action shot of a Whippet dog running outdoors,6,other
+Whippet,A close-up photo of a Whippet dog looking at the camera,1,other
+Whippet,A realistic image of a Whippet dog,12,other
+Whippet,A realistic image of a Whippet dog,14,other
+Whippet,A photo of a Whippet dog in a grassy field,14,other
+Whippet,A photo of a Whippet dog in a grassy field,17,other
+Whippet,A studio photograph of a Whippet dog on a plain background,11,other
+Whippet,A studio photograph of a Whippet dog on a plain background,12,other
+Whippet,A studio photograph of a Whippet dog on a plain background,19,other
+Whippet,An action shot of a Whippet dog running outdoors,13,other
+Whippet,An action shot of a Whippet dog running outdoors,17,other
+Whippet,A close-up photo of a Whippet dog looking at the camera,14,other
+Whippet,A realistic image of a Whippet dog,29,other
+Whippet,A photo of a Whippet dog in a grassy field,20,other
+Whippet,A studio photograph of a Whippet dog on a plain background,23,other
+Whippet,An action shot of a Whippet dog running outdoors,24,other
+Whippet,A close-up photo of a Whippet dog looking at the camera,21,other
+Whippet,A close-up photo of a Whippet dog looking at the camera,24,other
+Whippet,A close-up photo of a Whippet dog looking at the camera,29,other
+Ibizan Hound,A realistic image of a Ibizan Hound dog,2,other
+Ibizan Hound,A realistic image of a Ibizan Hound dog,4,other
+Ibizan Hound,A realistic image of a Ibizan Hound dog,6,other
+Ibizan Hound,A realistic image of a Ibizan Hound dog,8,other
+Ibizan Hound,A photo of a Ibizan Hound dog in a grassy field,0,other
+Ibizan Hound,A photo of a Ibizan Hound dog in a grassy field,3,other
+Ibizan Hound,A photo of a Ibizan Hound dog in a grassy field,4,other
+Ibizan Hound,A studio photograph of a Ibizan Hound dog on a plain background,0,other
+Ibizan Hound,A studio photograph of a Ibizan Hound dog on a plain background,4,other
+Ibizan Hound,A studio photograph of a Ibizan Hound dog on a plain background,9,other
+Ibizan Hound,An action shot of a Ibizan Hound dog running outdoors,0,other
+Ibizan Hound,An action shot of a Ibizan Hound dog running outdoors,3,other
+Ibizan Hound,An action shot of a Ibizan Hound dog running outdoors,4,other
+Ibizan Hound,An action shot of a Ibizan Hound dog running outdoors,8,other
+Ibizan Hound,A close-up photo of a Ibizan Hound dog looking at the camera,4,other
+Ibizan Hound,A close-up photo of a Ibizan Hound dog looking at the camera,6,other
+Ibizan Hound,A realistic image of a Ibizan Hound dog,12,other
+Ibizan Hound,A photo of a Ibizan Hound dog in a grassy field,10,other
+Ibizan Hound,A photo of a Ibizan Hound dog in a grassy field,15,other
+Ibizan Hound,A studio photograph of a Ibizan Hound dog on a plain background,13,other
+Ibizan Hound,An action shot of a Ibizan Hound dog running outdoors,11,other
+Ibizan Hound,A close-up photo of a Ibizan Hound dog looking at the camera,11,other
+Ibizan Hound,A close-up photo of a Ibizan Hound dog looking at the camera,18,other
+Ibizan Hound,A studio photograph of a Ibizan Hound dog on a plain background,20,other
+Ibizan Hound,A close-up photo of a Ibizan Hound dog looking at the camera,22,other
+Norwegian Elkhound,A realistic image of a Norwegian Elkhound dog,1,other
+Norwegian Elkhound,A realistic image of a Norwegian Elkhound dog,4,other
+Norwegian Elkhound,A realistic image of a Norwegian Elkhound dog,6,other
+Norwegian Elkhound,A realistic image of a Norwegian Elkhound dog,8,other
+Norwegian Elkhound,A realistic image of a Norwegian Elkhound dog,9,other
+Norwegian Elkhound,A photo of a Norwegian Elkhound dog in a grassy field,0,other
+Norwegian Elkhound,A photo of a Norwegian Elkhound dog in a grassy field,2,other
+Norwegian Elkhound,A photo of a Norwegian Elkhound dog in a grassy field,3,other
+Norwegian Elkhound,A photo of a Norwegian Elkhound dog in a grassy field,4,other
+Norwegian Elkhound,A photo of a Norwegian Elkhound dog in a grassy field,5,other
+Norwegian Elkhound,A studio photograph of a Norwegian Elkhound dog on a plain background,1,other
+Norwegian Elkhound,A studio photograph of a Norwegian Elkhound dog on a plain background,2,other
+Norwegian Elkhound,A studio photograph of a Norwegian Elkhound dog on a plain background,4,other
+Norwegian Elkhound,A studio photograph of a Norwegian Elkhound dog on a plain background,6,other
+Norwegian Elkhound,A studio photograph of a Norwegian Elkhound dog on a plain background,7,other
+Norwegian Elkhound,An action shot of a Norwegian Elkhound dog running outdoors,0,other
+Norwegian Elkhound,An action shot of a Norwegian Elkhound dog running outdoors,1,other
+Norwegian Elkhound,An action shot of a Norwegian Elkhound dog running outdoors,2,other
+Norwegian Elkhound,An action shot of a Norwegian Elkhound dog running outdoors,3,other
+Norwegian Elkhound,An action shot of a Norwegian Elkhound dog running outdoors,4,other
+Norwegian Elkhound,A close-up photo of a Norwegian Elkhound dog looking at the camera,1,other
+Norwegian Elkhound,A close-up photo of a Norwegian Elkhound dog looking at the camera,5,other
+Norwegian Elkhound,A close-up photo of a Norwegian Elkhound dog looking at the camera,7,other
+Norwegian Elkhound,A close-up photo of a Norwegian Elkhound dog looking at the camera,8,other
+Norwegian Elkhound,A close-up photo of a Norwegian Elkhound dog looking at the camera,14,other
+Otterhound,A realistic image of a Otterhound dog,3,other
+Otterhound,A realistic image of a Otterhound dog,8,other
+Otterhound,A realistic image of a Otterhound dog,9,other
+Otterhound,A photo of a Otterhound dog in a grassy field,0,other
+Otterhound,A photo of a Otterhound dog in a grassy field,5,other
+Otterhound,A studio photograph of a Otterhound dog on a plain background,2,other
+Otterhound,A studio photograph of a Otterhound dog on a plain background,9,other
+Otterhound,An action shot of a Otterhound dog running outdoors,0,other
+Otterhound,An action shot of a Otterhound dog running outdoors,5,other
+Otterhound,A close-up photo of a Otterhound dog looking at the camera,4,other
+Otterhound,A close-up photo of a Otterhound dog looking at the camera,7,other
+Otterhound,A realistic image of a Otterhound dog,13,other
+Otterhound,A realistic image of a Otterhound dog,18,other
+Otterhound,A photo of a Otterhound dog in a grassy field,15,other
+Otterhound,A studio photograph of a Otterhound dog on a plain background,12,other
+Otterhound,A studio photograph of a Otterhound dog on a plain background,13,other
+Otterhound,A studio photograph of a Otterhound dog on a plain background,14,other
+Otterhound,An action shot of a Otterhound dog running outdoors,12,other
+Otterhound,An action shot of a Otterhound dog running outdoors,13,other
+Otterhound,A close-up photo of a Otterhound dog looking at the camera,20,other
+Otterhound,A close-up photo of a Otterhound dog looking at the camera,24,other
+Otterhound,A close-up photo of a Otterhound dog looking at the camera,25,other
+Otterhound,A photo of a Otterhound dog in a grassy field,30,other
+Otterhound,A photo of a Otterhound dog in a grassy field,32,other
+Otterhound,An action shot of a Otterhound dog running outdoors,43,other
+Saluki,A realistic image of a Saluki dog,4,other
+Saluki,A realistic image of a Saluki dog,6,other
+Saluki,A realistic image of a Saluki dog,7,other
+Saluki,A realistic image of a Saluki dog,8,other
+Saluki,A realistic image of a Saluki dog,9,other
+Saluki,A photo of a Saluki dog in a grassy field,0,other
+Saluki,A photo of a Saluki dog in a grassy field,3,other
+Saluki,A photo of a Saluki dog in a grassy field,8,other
+Saluki,A studio photograph of a Saluki dog on a plain background,0,other
+Saluki,A studio photograph of a Saluki dog on a plain background,3,other
+Saluki,A studio photograph of a Saluki dog on a plain background,8,other
+Saluki,An action shot of a Saluki dog running outdoors,0,other
+Saluki,An action shot of a Saluki dog running outdoors,3,other
+Saluki,An action shot of a Saluki dog running outdoors,4,other
+Saluki,An action shot of a Saluki dog running outdoors,5,other
+Saluki,An action shot of a Saluki dog running outdoors,6,other
+Saluki,A close-up photo of a Saluki dog looking at the camera,0,other
+Saluki,A close-up photo of a Saluki dog looking at the camera,2,other
+Saluki,A photo of a Saluki dog in a grassy field,12,other
+Saluki,A photo of a Saluki dog in a grassy field,13,other
+Saluki,A studio photograph of a Saluki dog on a plain background,12,other
+Saluki,A studio photograph of a Saluki dog on a plain background,13,other
+Saluki,A close-up photo of a Saluki dog looking at the camera,21,other
+Saluki,A close-up photo of a Saluki dog looking at the camera,31,other
+Saluki,A close-up photo of a Saluki dog looking at the camera,34,other
+Scottish Deerhound,A realistic image of a Scottish Deerhound dog,2,other
+Scottish Deerhound,A realistic image of a Scottish Deerhound dog,5,other
+Scottish Deerhound,A photo of a Scottish Deerhound dog in a grassy field,0,other
+Scottish Deerhound,A photo of a Scottish Deerhound dog in a grassy field,2,other
+Scottish Deerhound,A photo of a Scottish Deerhound dog in a grassy field,5,other
+Scottish Deerhound,A photo of a Scottish Deerhound dog in a grassy field,6,other
+Scottish Deerhound,A photo of a Scottish Deerhound dog in a grassy field,7,other
+Scottish Deerhound,A studio photograph of a Scottish Deerhound dog on a plain background,2,other
+Scottish Deerhound,An action shot of a Scottish Deerhound dog running outdoors,2,other
+Scottish Deerhound,An action shot of a Scottish Deerhound dog running outdoors,3,other
+Scottish Deerhound,An action shot of a Scottish Deerhound dog running outdoors,4,other
+Scottish Deerhound,A close-up photo of a Scottish Deerhound dog looking at the camera,0,other
+Scottish Deerhound,A close-up photo of a Scottish Deerhound dog looking at the camera,1,other
+Scottish Deerhound,A close-up photo of a Scottish Deerhound dog looking at the camera,4,other
+Scottish Deerhound,A close-up photo of a Scottish Deerhound dog looking at the camera,5,other
+Scottish Deerhound,A close-up photo of a Scottish Deerhound dog looking at the camera,6,other
+Scottish Deerhound,A realistic image of a Scottish Deerhound dog,10,other
+Scottish Deerhound,A realistic image of a Scottish Deerhound dog,11,other
+Scottish Deerhound,A realistic image of a Scottish Deerhound dog,12,other
+Scottish Deerhound,A studio photograph of a Scottish Deerhound dog on a plain background,11,other
+Scottish Deerhound,A studio photograph of a Scottish Deerhound dog on a plain background,12,other
+Scottish Deerhound,A studio photograph of a Scottish Deerhound dog on a plain background,13,other
+Scottish Deerhound,An action shot of a Scottish Deerhound dog running outdoors,11,other
+Scottish Deerhound,An action shot of a Scottish Deerhound dog running outdoors,12,other
+Scottish Deerhound,A studio photograph of a Scottish Deerhound dog on a plain background,20,other
+Weimaraner,A realistic image of a Weimaraner dog,0,other
+Weimaraner,A realistic image of a Weimaraner dog,1,other
+Weimaraner,A realistic image of a Weimaraner dog,2,other
+Weimaraner,A realistic image of a Weimaraner dog,3,other
+Weimaraner,A realistic image of a Weimaraner dog,4,other
+Weimaraner,A photo of a Weimaraner dog in a grassy field,0,other
+Weimaraner,A photo of a Weimaraner dog in a grassy field,1,other
+Weimaraner,A photo of a Weimaraner dog in a grassy field,2,other
+Weimaraner,A photo of a Weimaraner dog in a grassy field,3,other
+Weimaraner,A photo of a Weimaraner dog in a grassy field,4,other
+Weimaraner,A studio photograph of a Weimaraner dog on a plain background,0,other
+Weimaraner,A studio photograph of a Weimaraner dog on a plain background,1,other
+Weimaraner,A studio photograph of a Weimaraner dog on a plain background,2,other
+Weimaraner,A studio photograph of a Weimaraner dog on a plain background,4,other
+Weimaraner,A studio photograph of a Weimaraner dog on a plain background,5,other
+Weimaraner,An action shot of a Weimaraner dog running outdoors,0,other
+Weimaraner,An action shot of a Weimaraner dog running outdoors,1,other
+Weimaraner,An action shot of a Weimaraner dog running outdoors,2,other
+Weimaraner,An action shot of a Weimaraner dog running outdoors,4,other
+Weimaraner,An action shot of a Weimaraner dog running outdoors,5,other
+Weimaraner,A close-up photo of a Weimaraner dog looking at the camera,0,other
+Weimaraner,A close-up photo of a Weimaraner dog looking at the camera,1,other
+Weimaraner,A close-up photo of a Weimaraner dog looking at the camera,2,other
+Weimaraner,A close-up photo of a Weimaraner dog looking at the camera,3,other
+Weimaraner,A close-up photo of a Weimaraner dog looking at the camera,4,other
+American Staffordshire Terrier,A realistic image of a American Staffordshire Terrier dog,0,other
+American Staffordshire Terrier,A realistic image of a American Staffordshire Terrier dog,1,other
+American Staffordshire Terrier,A realistic image of a American Staffordshire Terrier dog,3,other
+American Staffordshire Terrier,A realistic image of a American Staffordshire Terrier dog,5,other
+American Staffordshire Terrier,A realistic image of a American Staffordshire Terrier dog,7,other
+American Staffordshire Terrier,A photo of a American Staffordshire Terrier dog in a grassy field,0,other
+American Staffordshire Terrier,A photo of a American Staffordshire Terrier dog in a grassy field,2,other
+American Staffordshire Terrier,A photo of a American Staffordshire Terrier dog in a grassy field,5,other
+American Staffordshire Terrier,A photo of a American Staffordshire Terrier dog in a grassy field,6,other
+American Staffordshire Terrier,A photo of a American Staffordshire Terrier dog in a grassy field,7,other
+American Staffordshire Terrier,A studio photograph of a American Staffordshire Terrier dog on a plain background,0,other
+American Staffordshire Terrier,A studio photograph of a American Staffordshire Terrier dog on a plain background,1,other
+American Staffordshire Terrier,A studio photograph of a American Staffordshire Terrier dog on a plain background,2,other
+American Staffordshire Terrier,A studio photograph of a American Staffordshire Terrier dog on a plain background,3,other
+American Staffordshire Terrier,A studio photograph of a American Staffordshire Terrier dog on a plain background,5,other
+American Staffordshire Terrier,An action shot of a American Staffordshire Terrier dog running outdoors,0,other
+American Staffordshire Terrier,An action shot of a American Staffordshire Terrier dog running outdoors,1,other
+American Staffordshire Terrier,An action shot of a American Staffordshire Terrier dog running outdoors,4,other
+American Staffordshire Terrier,An action shot of a American Staffordshire Terrier dog running outdoors,5,other
+American Staffordshire Terrier,A close-up photo of a American Staffordshire Terrier dog looking at the camera,0,other
+American Staffordshire Terrier,A close-up photo of a American Staffordshire Terrier dog looking at the camera,4,other
+American Staffordshire Terrier,A close-up photo of a American Staffordshire Terrier dog looking at the camera,5,other
+American Staffordshire Terrier,A close-up photo of a American Staffordshire Terrier dog looking at the camera,6,other
+American Staffordshire Terrier,A close-up photo of a American Staffordshire Terrier dog looking at the camera,9,other
+American Staffordshire Terrier,An action shot of a American Staffordshire Terrier dog running outdoors,11,other
+Bedlington Terrier,A realistic image of a Bedlington Terrier dog,2,other
+Bedlington Terrier,A realistic image of a Bedlington Terrier dog,4,other
+Bedlington Terrier,A realistic image of a Bedlington Terrier dog,6,other
+Bedlington Terrier,A realistic image of a Bedlington Terrier dog,7,other
+Bedlington Terrier,A realistic image of a Bedlington Terrier dog,8,other
+Bedlington Terrier,A photo of a Bedlington Terrier dog in a grassy field,1,other
+Bedlington Terrier,A photo of a Bedlington Terrier dog in a grassy field,2,other
+Bedlington Terrier,A photo of a Bedlington Terrier dog in a grassy field,4,other
+Bedlington Terrier,A photo of a Bedlington Terrier dog in a grassy field,5,other
+Bedlington Terrier,A photo of a Bedlington Terrier dog in a grassy field,6,other
+Bedlington Terrier,A studio photograph of a Bedlington Terrier dog on a plain background,4,other
+Bedlington Terrier,A studio photograph of a Bedlington Terrier dog on a plain background,6,other
+Bedlington Terrier,A studio photograph of a Bedlington Terrier dog on a plain background,7,other
+Bedlington Terrier,A studio photograph of a Bedlington Terrier dog on a plain background,8,other
+Bedlington Terrier,A studio photograph of a Bedlington Terrier dog on a plain background,9,other
+Bedlington Terrier,An action shot of a Bedlington Terrier dog running outdoors,0,other
+Bedlington Terrier,An action shot of a Bedlington Terrier dog running outdoors,1,other
+Bedlington Terrier,An action shot of a Bedlington Terrier dog running outdoors,2,other
+Bedlington Terrier,An action shot of a Bedlington Terrier dog running outdoors,4,other
+Bedlington Terrier,An action shot of a Bedlington Terrier dog running outdoors,5,other
+Bedlington Terrier,A close-up photo of a Bedlington Terrier dog looking at the camera,5,other
+Bedlington Terrier,A close-up photo of a Bedlington Terrier dog looking at the camera,7,other
+Bedlington Terrier,A close-up photo of a Bedlington Terrier dog looking at the camera,12,other
+Bedlington Terrier,A close-up photo of a Bedlington Terrier dog looking at the camera,14,other
+Bedlington Terrier,A close-up photo of a Bedlington Terrier dog looking at the camera,20,other
+Border Terrier,A realistic image of a Border Terrier dog,0,other
+Border Terrier,A realistic image of a Border Terrier dog,2,other
+Border Terrier,A realistic image of a Border Terrier dog,4,other
+Border Terrier,A realistic image of a Border Terrier dog,6,other
+Border Terrier,A realistic image of a Border Terrier dog,7,other
+Border Terrier,A photo of a Border Terrier dog in a grassy field,0,other
+Border Terrier,A photo of a Border Terrier dog in a grassy field,1,other
+Border Terrier,A photo of a Border Terrier dog in a grassy field,3,other
+Border Terrier,A photo of a Border Terrier dog in a grassy field,4,other
+Border Terrier,A photo of a Border Terrier dog in a grassy field,5,other
+Border Terrier,A studio photograph of a Border Terrier dog on a plain background,0,other
+Border Terrier,A studio photograph of a Border Terrier dog on a plain background,2,other
+Border Terrier,A studio photograph of a Border Terrier dog on a plain background,3,other
+Border Terrier,A studio photograph of a Border Terrier dog on a plain background,4,other
+Border Terrier,An action shot of a Border Terrier dog running outdoors,0,other
+Border Terrier,An action shot of a Border Terrier dog running outdoors,1,other
+Border Terrier,An action shot of a Border Terrier dog running outdoors,3,other
+Border Terrier,An action shot of a Border Terrier dog running outdoors,5,other
+Border Terrier,An action shot of a Border Terrier dog running outdoors,6,other
+Border Terrier,A close-up photo of a Border Terrier dog looking at the camera,0,other
+Border Terrier,A close-up photo of a Border Terrier dog looking at the camera,1,other
+Border Terrier,A close-up photo of a Border Terrier dog looking at the camera,3,other
+Border Terrier,A close-up photo of a Border Terrier dog looking at the camera,6,other
+Border Terrier,A close-up photo of a Border Terrier dog looking at the camera,7,other
+Border Terrier,A studio photograph of a Border Terrier dog on a plain background,10,other
+Irish Terrier,A realistic image of a Irish Terrier dog,4,other
+Irish Terrier,A realistic image of a Irish Terrier dog,5,other
+Irish Terrier,A realistic image of a Irish Terrier dog,7,other
+Irish Terrier,A realistic image of a Irish Terrier dog,8,other
+Irish Terrier,A realistic image of a Irish Terrier dog,9,other
+Irish Terrier,A photo of a Irish Terrier dog in a grassy field,0,other
+Irish Terrier,A photo of a Irish Terrier dog in a grassy field,1,other
+Irish Terrier,A photo of a Irish Terrier dog in a grassy field,5,other
+Irish Terrier,A photo of a Irish Terrier dog in a grassy field,6,other
+Irish Terrier,A photo of a Irish Terrier dog in a grassy field,7,other
+Irish Terrier,A studio photograph of a Irish Terrier dog on a plain background,1,other
+Irish Terrier,A studio photograph of a Irish Terrier dog on a plain background,3,other
+Irish Terrier,A studio photograph of a Irish Terrier dog on a plain background,4,other
+Irish Terrier,A studio photograph of a Irish Terrier dog on a plain background,5,other
+Irish Terrier,A studio photograph of a Irish Terrier dog on a plain background,7,other
+Irish Terrier,An action shot of a Irish Terrier dog running outdoors,1,other
+Irish Terrier,An action shot of a Irish Terrier dog running outdoors,4,other
+Irish Terrier,An action shot of a Irish Terrier dog running outdoors,8,other
+Irish Terrier,A close-up photo of a Irish Terrier dog looking at the camera,4,other
+Irish Terrier,A close-up photo of a Irish Terrier dog looking at the camera,5,other
+Irish Terrier,A close-up photo of a Irish Terrier dog looking at the camera,8,other
+Irish Terrier,An action shot of a Irish Terrier dog running outdoors,13,other
+Irish Terrier,An action shot of a Irish Terrier dog running outdoors,17,other
+Irish Terrier,A close-up photo of a Irish Terrier dog looking at the camera,14,other
+Irish Terrier,A close-up photo of a Irish Terrier dog looking at the camera,15,other
+Norfolk Terrier,A realistic image of a Norfolk Terrier dog,0,other
+Norfolk Terrier,A realistic image of a Norfolk Terrier dog,3,other
+Norfolk Terrier,A realistic image of a Norfolk Terrier dog,5,other
+Norfolk Terrier,A realistic image of a Norfolk Terrier dog,6,other
+Norfolk Terrier,A realistic image of a Norfolk Terrier dog,7,other
+Norfolk Terrier,A photo of a Norfolk Terrier dog in a grassy field,0,other
+Norfolk Terrier,A photo of a Norfolk Terrier dog in a grassy field,6,other
+Norfolk Terrier,A photo of a Norfolk Terrier dog in a grassy field,9,other
+Norfolk Terrier,A studio photograph of a Norfolk Terrier dog on a plain background,0,other
+Norfolk Terrier,A studio photograph of a Norfolk Terrier dog on a plain background,2,other
+Norfolk Terrier,A studio photograph of a Norfolk Terrier dog on a plain background,3,other
+Norfolk Terrier,A studio photograph of a Norfolk Terrier dog on a plain background,6,other
+Norfolk Terrier,A studio photograph of a Norfolk Terrier dog on a plain background,7,other
+Norfolk Terrier,An action shot of a Norfolk Terrier dog running outdoors,1,other
+Norfolk Terrier,An action shot of a Norfolk Terrier dog running outdoors,3,other
+Norfolk Terrier,An action shot of a Norfolk Terrier dog running outdoors,4,other
+Norfolk Terrier,A close-up photo of a Norfolk Terrier dog looking at the camera,0,other
+Norfolk Terrier,A close-up photo of a Norfolk Terrier dog looking at the camera,7,other
+Norfolk Terrier,A photo of a Norfolk Terrier dog in a grassy field,12,other
+Norfolk Terrier,A photo of a Norfolk Terrier dog in a grassy field,14,other
+Norfolk Terrier,An action shot of a Norfolk Terrier dog running outdoors,12,other
+Norfolk Terrier,An action shot of a Norfolk Terrier dog running outdoors,13,other
+Norfolk Terrier,A close-up photo of a Norfolk Terrier dog looking at the camera,11,other
+Norfolk Terrier,A close-up photo of a Norfolk Terrier dog looking at the camera,12,other
+Norfolk Terrier,A close-up photo of a Norfolk Terrier dog looking at the camera,13,other
+Norwich Terrier,A realistic image of a Norwich Terrier dog,1,other
+Norwich Terrier,A realistic image of a Norwich Terrier dog,2,other
+Norwich Terrier,A realistic image of a Norwich Terrier dog,5,other
+Norwich Terrier,A realistic image of a Norwich Terrier dog,8,other
+Norwich Terrier,A photo of a Norwich Terrier dog in a grassy field,1,other
+Norwich Terrier,A photo of a Norwich Terrier dog in a grassy field,3,other
+Norwich Terrier,A photo of a Norwich Terrier dog in a grassy field,6,other
+Norwich Terrier,A photo of a Norwich Terrier dog in a grassy field,8,other
+Norwich Terrier,A studio photograph of a Norwich Terrier dog on a plain background,1,other
+Norwich Terrier,A studio photograph of a Norwich Terrier dog on a plain background,2,other
+Norwich Terrier,A studio photograph of a Norwich Terrier dog on a plain background,4,other
+Norwich Terrier,A studio photograph of a Norwich Terrier dog on a plain background,6,other
+Norwich Terrier,A studio photograph of a Norwich Terrier dog on a plain background,8,other
+Norwich Terrier,An action shot of a Norwich Terrier dog running outdoors,0,other
+Norwich Terrier,An action shot of a Norwich Terrier dog running outdoors,1,other
+Norwich Terrier,An action shot of a Norwich Terrier dog running outdoors,2,other
+Norwich Terrier,An action shot of a Norwich Terrier dog running outdoors,5,other
+Norwich Terrier,An action shot of a Norwich Terrier dog running outdoors,6,other
+Norwich Terrier,A close-up photo of a Norwich Terrier dog looking at the camera,1,other
+Norwich Terrier,A close-up photo of a Norwich Terrier dog looking at the camera,2,other
+Norwich Terrier,A close-up photo of a Norwich Terrier dog looking at the camera,5,other
+Norwich Terrier,A close-up photo of a Norwich Terrier dog looking at the camera,6,other
+Norwich Terrier,A realistic image of a Norwich Terrier dog,10,other
+Norwich Terrier,A photo of a Norwich Terrier dog in a grassy field,10,other
+Norwich Terrier,A close-up photo of a Norwich Terrier dog looking at the camera,11,other
+Yorkshire Terrier,A realistic image of a Yorkshire Terrier dog,0,other
+Yorkshire Terrier,A realistic image of a Yorkshire Terrier dog,1,other
+Yorkshire Terrier,A realistic image of a Yorkshire Terrier dog,2,other
+Yorkshire Terrier,A realistic image of a Yorkshire Terrier dog,4,other
+Yorkshire Terrier,A realistic image of a Yorkshire Terrier dog,5,other
+Yorkshire Terrier,A photo of a Yorkshire Terrier dog in a grassy field,0,other
+Yorkshire Terrier,A photo of a Yorkshire Terrier dog in a grassy field,2,other
+Yorkshire Terrier,A photo of a Yorkshire Terrier dog in a grassy field,3,other
+Yorkshire Terrier,A photo of a Yorkshire Terrier dog in a grassy field,4,other
+Yorkshire Terrier,A photo of a Yorkshire Terrier dog in a grassy field,5,other
+Yorkshire Terrier,A studio photograph of a Yorkshire Terrier dog on a plain background,1,other
+Yorkshire Terrier,A studio photograph of a Yorkshire Terrier dog on a plain background,2,other
+Yorkshire Terrier,A studio photograph of a Yorkshire Terrier dog on a plain background,4,other
+Yorkshire Terrier,A studio photograph of a Yorkshire Terrier dog on a plain background,5,other
+Yorkshire Terrier,A studio photograph of a Yorkshire Terrier dog on a plain background,6,other
+Yorkshire Terrier,An action shot of a Yorkshire Terrier dog running outdoors,0,other
+Yorkshire Terrier,An action shot of a Yorkshire Terrier dog running outdoors,2,other
+Yorkshire Terrier,An action shot of a Yorkshire Terrier dog running outdoors,3,other
+Yorkshire Terrier,An action shot of a Yorkshire Terrier dog running outdoors,4,other
+Yorkshire Terrier,An action shot of a Yorkshire Terrier dog running outdoors,7,other
+Yorkshire Terrier,A close-up photo of a Yorkshire Terrier dog looking at the camera,3,other
+Yorkshire Terrier,A close-up photo of a Yorkshire Terrier dog looking at the camera,7,other
+Yorkshire Terrier,A close-up photo of a Yorkshire Terrier dog looking at the camera,9,other
+Yorkshire Terrier,A close-up photo of a Yorkshire Terrier dog looking at the camera,10,other
+Yorkshire Terrier,A close-up photo of a Yorkshire Terrier dog looking at the camera,12,other
+Airedale,A realistic image of a Airedale dog,0,other
+Airedale,A realistic image of a Airedale dog,1,other
+Airedale,A realistic image of a Airedale dog,3,other
+Airedale,A realistic image of a Airedale dog,5,other
+Airedale,A realistic image of a Airedale dog,6,other
+Airedale,A photo of a Airedale dog in a grassy field,0,other
+Airedale,A photo of a Airedale dog in a grassy field,1,other
+Airedale,A photo of a Airedale dog in a grassy field,2,other
+Airedale,A photo of a Airedale dog in a grassy field,3,other
+Airedale,A photo of a Airedale dog in a grassy field,4,other
+Airedale,A studio photograph of a Airedale dog on a plain background,0,other
+Airedale,A studio photograph of a Airedale dog on a plain background,1,other
+Airedale,A studio photograph of a Airedale dog on a plain background,2,other
+Airedale,A studio photograph of a Airedale dog on a plain background,3,other
+Airedale,A studio photograph of a Airedale dog on a plain background,5,other
+Airedale,An action shot of a Airedale dog running outdoors,0,other
+Airedale,An action shot of a Airedale dog running outdoors,2,other
+Airedale,An action shot of a Airedale dog running outdoors,3,other
+Airedale,An action shot of a Airedale dog running outdoors,4,other
+Airedale,An action shot of a Airedale dog running outdoors,5,other
+Airedale,A close-up photo of a Airedale dog looking at the camera,0,other
+Airedale,A close-up photo of a Airedale dog looking at the camera,1,other
+Airedale,A close-up photo of a Airedale dog looking at the camera,2,other
+Airedale,A close-up photo of a Airedale dog looking at the camera,3,other
+Airedale,A close-up photo of a Airedale dog looking at the camera,4,other
+Cairn,A realistic image of a Cairn dog,0,other
+Cairn,A realistic image of a Cairn dog,1,other
+Cairn,A realistic image of a Cairn dog,4,other
+Cairn,A realistic image of a Cairn dog,6,other
+Cairn,A realistic image of a Cairn dog,7,other
+Cairn,A photo of a Cairn dog in a grassy field,0,other
+Cairn,A photo of a Cairn dog in a grassy field,3,other
+Cairn,A photo of a Cairn dog in a grassy field,4,other
+Cairn,A photo of a Cairn dog in a grassy field,6,other
+Cairn,A photo of a Cairn dog in a grassy field,7,other
+Cairn,A studio photograph of a Cairn dog on a plain background,0,other
+Cairn,A studio photograph of a Cairn dog on a plain background,2,other
+Cairn,A studio photograph of a Cairn dog on a plain background,4,other
+Cairn,A studio photograph of a Cairn dog on a plain background,7,other
+Cairn,An action shot of a Cairn dog running outdoors,9,other
+Cairn,A close-up photo of a Cairn dog looking at the camera,4,other
+Cairn,A studio photograph of a Cairn dog on a plain background,12,other
+Cairn,An action shot of a Cairn dog running outdoors,13,other
+Cairn,An action shot of a Cairn dog running outdoors,16,other
+Cairn,An action shot of a Cairn dog running outdoors,17,other
+Cairn,A close-up photo of a Cairn dog looking at the camera,13,other
+Cairn,A close-up photo of a Cairn dog looking at the camera,14,other
+Cairn,A close-up photo of a Cairn dog looking at the camera,16,other
+Cairn,A close-up photo of a Cairn dog looking at the camera,19,other
+Cairn,An action shot of a Cairn dog running outdoors,22,other
+Australian Terrier,A realistic image of a Australian Terrier dog,8,other
+Australian Terrier,A photo of a Australian Terrier dog in a grassy field,0,other
+Australian Terrier,A photo of a Australian Terrier dog in a grassy field,2,other
+Australian Terrier,A photo of a Australian Terrier dog in a grassy field,3,other
+Australian Terrier,A photo of a Australian Terrier dog in a grassy field,5,other
+Australian Terrier,A photo of a Australian Terrier dog in a grassy field,6,other
+Australian Terrier,A studio photograph of a Australian Terrier dog on a plain background,2,other
+Australian Terrier,A studio photograph of a Australian Terrier dog on a plain background,6,other
+Australian Terrier,A studio photograph of a Australian Terrier dog on a plain background,8,other
+Australian Terrier,An action shot of a Australian Terrier dog running outdoors,1,other
+Australian Terrier,An action shot of a Australian Terrier dog running outdoors,3,other
+Australian Terrier,An action shot of a Australian Terrier dog running outdoors,8,other
+Australian Terrier,An action shot of a Australian Terrier dog running outdoors,9,other
+Australian Terrier,A close-up photo of a Australian Terrier dog looking at the camera,1,other
+Australian Terrier,A close-up photo of a Australian Terrier dog looking at the camera,6,other
+Australian Terrier,A close-up photo of a Australian Terrier dog looking at the camera,8,other
+Australian Terrier,A realistic image of a Australian Terrier dog,13,other
+Australian Terrier,A realistic image of a Australian Terrier dog,16,other
+Australian Terrier,A realistic image of a Australian Terrier dog,17,other
+Australian Terrier,A studio photograph of a Australian Terrier dog on a plain background,11,other
+Australian Terrier,A studio photograph of a Australian Terrier dog on a plain background,12,other
+Australian Terrier,An action shot of a Australian Terrier dog running outdoors,12,other
+Australian Terrier,A close-up photo of a Australian Terrier dog looking at the camera,11,other
+Australian Terrier,A close-up photo of a Australian Terrier dog looking at the camera,13,other
+Australian Terrier,A realistic image of a Australian Terrier dog,26,other
+Boston Bull,A realistic image of a Boston Bull dog,2,other
+Boston Bull,A realistic image of a Boston Bull dog,5,other
+Boston Bull,A photo of a Boston Bull dog in a grassy field,2,other
+Boston Bull,A photo of a Boston Bull dog in a grassy field,3,other
+Boston Bull,A photo of a Boston Bull dog in a grassy field,6,other
+Boston Bull,A photo of a Boston Bull dog in a grassy field,7,other
+Boston Bull,A photo of a Boston Bull dog in a grassy field,9,other
+Boston Bull,A studio photograph of a Boston Bull dog on a plain background,2,other
+Boston Bull,A studio photograph of a Boston Bull dog on a plain background,5,other
+Boston Bull,A studio photograph of a Boston Bull dog on a plain background,7,other
+Boston Bull,An action shot of a Boston Bull dog running outdoors,1,other
+Boston Bull,An action shot of a Boston Bull dog running outdoors,2,other
+Boston Bull,An action shot of a Boston Bull dog running outdoors,4,other
+Boston Bull,An action shot of a Boston Bull dog running outdoors,6,other
+Boston Bull,An action shot of a Boston Bull dog running outdoors,9,other
+Boston Bull,A close-up photo of a Boston Bull dog looking at the camera,0,other
+Boston Bull,A close-up photo of a Boston Bull dog looking at the camera,1,other
+Boston Bull,A close-up photo of a Boston Bull dog looking at the camera,2,other
+Boston Bull,A close-up photo of a Boston Bull dog looking at the camera,3,other
+Boston Bull,A close-up photo of a Boston Bull dog looking at the camera,5,other
+Boston Bull,A realistic image of a Boston Bull dog,16,other
+Boston Bull,A studio photograph of a Boston Bull dog on a plain background,10,other
+Boston Bull,A realistic image of a Boston Bull dog,29,other
+Boston Bull,A studio photograph of a Boston Bull dog on a plain background,20,other
+Boston Bull,A realistic image of a Boston Bull dog,32,other
+Miniature Schnauzer,A realistic image of a Miniature Schnauzer dog,0,other
+Miniature Schnauzer,A realistic image of a Miniature Schnauzer dog,1,other
+Miniature Schnauzer,A realistic image of a Miniature Schnauzer dog,2,other
+Miniature Schnauzer,A realistic image of a Miniature Schnauzer dog,3,other
+Miniature Schnauzer,A realistic image of a Miniature Schnauzer dog,4,other
+Miniature Schnauzer,A photo of a Miniature Schnauzer dog in a grassy field,0,other
+Miniature Schnauzer,A photo of a Miniature Schnauzer dog in a grassy field,1,other
+Miniature Schnauzer,A photo of a Miniature Schnauzer dog in a grassy field,2,other
+Miniature Schnauzer,A photo of a Miniature Schnauzer dog in a grassy field,4,other
+Miniature Schnauzer,A photo of a Miniature Schnauzer dog in a grassy field,5,other
+Miniature Schnauzer,A studio photograph of a Miniature Schnauzer dog on a plain background,1,other
+Miniature Schnauzer,A studio photograph of a Miniature Schnauzer dog on a plain background,2,other
+Miniature Schnauzer,A studio photograph of a Miniature Schnauzer dog on a plain background,3,other
+Miniature Schnauzer,A studio photograph of a Miniature Schnauzer dog on a plain background,5,other
+Miniature Schnauzer,A studio photograph of a Miniature Schnauzer dog on a plain background,6,other
+Miniature Schnauzer,An action shot of a Miniature Schnauzer dog running outdoors,0,other
+Miniature Schnauzer,An action shot of a Miniature Schnauzer dog running outdoors,1,other
+Miniature Schnauzer,An action shot of a Miniature Schnauzer dog running outdoors,2,other
+Miniature Schnauzer,An action shot of a Miniature Schnauzer dog running outdoors,5,other
+Miniature Schnauzer,An action shot of a Miniature Schnauzer dog running outdoors,6,other
+Miniature Schnauzer,A close-up photo of a Miniature Schnauzer dog looking at the camera,0,other
+Miniature Schnauzer,A close-up photo of a Miniature Schnauzer dog looking at the camera,1,other
+Miniature Schnauzer,A close-up photo of a Miniature Schnauzer dog looking at the camera,3,other
+Miniature Schnauzer,A close-up photo of a Miniature Schnauzer dog looking at the camera,4,other
+Miniature Schnauzer,A close-up photo of a Miniature Schnauzer dog looking at the camera,5,other
+Giant Schnauzer,A realistic image of a Giant Schnauzer dog,1,other
+Giant Schnauzer,A realistic image of a Giant Schnauzer dog,2,other
+Giant Schnauzer,A realistic image of a Giant Schnauzer dog,3,other
+Giant Schnauzer,A realistic image of a Giant Schnauzer dog,4,other
+Giant Schnauzer,A realistic image of a Giant Schnauzer dog,5,other
+Giant Schnauzer,A photo of a Giant Schnauzer dog in a grassy field,0,other
+Giant Schnauzer,A photo of a Giant Schnauzer dog in a grassy field,1,other
+Giant Schnauzer,A photo of a Giant Schnauzer dog in a grassy field,3,other
+Giant Schnauzer,A photo of a Giant Schnauzer dog in a grassy field,4,other
+Giant Schnauzer,A photo of a Giant Schnauzer dog in a grassy field,5,other
+Giant Schnauzer,A studio photograph of a Giant Schnauzer dog on a plain background,0,other
+Giant Schnauzer,A studio photograph of a Giant Schnauzer dog on a plain background,4,other
+Giant Schnauzer,A studio photograph of a Giant Schnauzer dog on a plain background,5,other
+Giant Schnauzer,A studio photograph of a Giant Schnauzer dog on a plain background,7,other
+Giant Schnauzer,An action shot of a Giant Schnauzer dog running outdoors,0,other
+Giant Schnauzer,An action shot of a Giant Schnauzer dog running outdoors,2,other
+Giant Schnauzer,An action shot of a Giant Schnauzer dog running outdoors,5,other
+Giant Schnauzer,An action shot of a Giant Schnauzer dog running outdoors,7,other
+Giant Schnauzer,An action shot of a Giant Schnauzer dog running outdoors,8,other
+Giant Schnauzer,A close-up photo of a Giant Schnauzer dog looking at the camera,1,other
+Giant Schnauzer,A close-up photo of a Giant Schnauzer dog looking at the camera,6,other
+Giant Schnauzer,A close-up photo of a Giant Schnauzer dog looking at the camera,7,other
+Giant Schnauzer,A studio photograph of a Giant Schnauzer dog on a plain background,10,other
+Giant Schnauzer,A close-up photo of a Giant Schnauzer dog looking at the camera,10,other
+Giant Schnauzer,A close-up photo of a Giant Schnauzer dog looking at the camera,11,other
+Standard Schnauzer,A realistic image of a Standard Schnauzer dog,1,other
+Standard Schnauzer,A realistic image of a Standard Schnauzer dog,5,other
+Standard Schnauzer,A realistic image of a Standard Schnauzer dog,6,other
+Standard Schnauzer,A realistic image of a Standard Schnauzer dog,7,other
+Standard Schnauzer,A realistic image of a Standard Schnauzer dog,8,other
+Standard Schnauzer,A photo of a Standard Schnauzer dog in a grassy field,1,other
+Standard Schnauzer,A photo of a Standard Schnauzer dog in a grassy field,3,other
+Standard Schnauzer,A photo of a Standard Schnauzer dog in a grassy field,4,other
+Standard Schnauzer,A photo of a Standard Schnauzer dog in a grassy field,8,other
+Standard Schnauzer,A studio photograph of a Standard Schnauzer dog on a plain background,1,other
+Standard Schnauzer,A studio photograph of a Standard Schnauzer dog on a plain background,6,other
+Standard Schnauzer,A studio photograph of a Standard Schnauzer dog on a plain background,7,other
+Standard Schnauzer,An action shot of a Standard Schnauzer dog running outdoors,6,other
+Standard Schnauzer,A close-up photo of a Standard Schnauzer dog looking at the camera,7,other
+Standard Schnauzer,A photo of a Standard Schnauzer dog in a grassy field,12,other
+Standard Schnauzer,A studio photograph of a Standard Schnauzer dog on a plain background,12,other
+Standard Schnauzer,A studio photograph of a Standard Schnauzer dog on a plain background,16,other
+Standard Schnauzer,An action shot of a Standard Schnauzer dog running outdoors,11,other
+Standard Schnauzer,An action shot of a Standard Schnauzer dog running outdoors,15,other
+Standard Schnauzer,An action shot of a Standard Schnauzer dog running outdoors,16,other
+Standard Schnauzer,An action shot of a Standard Schnauzer dog running outdoors,19,other
+Standard Schnauzer,A close-up photo of a Standard Schnauzer dog looking at the camera,11,other
+Standard Schnauzer,A close-up photo of a Standard Schnauzer dog looking at the camera,15,other
+Standard Schnauzer,A close-up photo of a Standard Schnauzer dog looking at the camera,16,other
+Standard Schnauzer,A close-up photo of a Standard Schnauzer dog looking at the camera,20,other
+Tibetan Terrier,A realistic image of a Tibetan Terrier dog,0,other
+Tibetan Terrier,A realistic image of a Tibetan Terrier dog,1,other
+Tibetan Terrier,A realistic image of a Tibetan Terrier dog,2,other
+Tibetan Terrier,A realistic image of a Tibetan Terrier dog,3,other
+Tibetan Terrier,A realistic image of a Tibetan Terrier dog,4,other
+Tibetan Terrier,A photo of a Tibetan Terrier dog in a grassy field,0,other
+Tibetan Terrier,A photo of a Tibetan Terrier dog in a grassy field,1,other
+Tibetan Terrier,A photo of a Tibetan Terrier dog in a grassy field,2,other
+Tibetan Terrier,A photo of a Tibetan Terrier dog in a grassy field,4,other
+Tibetan Terrier,A photo of a Tibetan Terrier dog in a grassy field,5,other
+Tibetan Terrier,A studio photograph of a Tibetan Terrier dog on a plain background,0,other
+Tibetan Terrier,A studio photograph of a Tibetan Terrier dog on a plain background,1,other
+Tibetan Terrier,A studio photograph of a Tibetan Terrier dog on a plain background,2,other
+Tibetan Terrier,A studio photograph of a Tibetan Terrier dog on a plain background,3,other
+Tibetan Terrier,A studio photograph of a Tibetan Terrier dog on a plain background,4,other
+Tibetan Terrier,An action shot of a Tibetan Terrier dog running outdoors,0,other
+Tibetan Terrier,An action shot of a Tibetan Terrier dog running outdoors,1,other
+Tibetan Terrier,An action shot of a Tibetan Terrier dog running outdoors,2,other
+Tibetan Terrier,An action shot of a Tibetan Terrier dog running outdoors,3,other
+Tibetan Terrier,An action shot of a Tibetan Terrier dog running outdoors,4,other
+Tibetan Terrier,A close-up photo of a Tibetan Terrier dog looking at the camera,0,other
+Tibetan Terrier,A close-up photo of a Tibetan Terrier dog looking at the camera,1,other
+Tibetan Terrier,A close-up photo of a Tibetan Terrier dog looking at the camera,2,other
+Tibetan Terrier,A close-up photo of a Tibetan Terrier dog looking at the camera,4,other
+Tibetan Terrier,A close-up photo of a Tibetan Terrier dog looking at the camera,5,other
+Silky Terrier,A realistic image of a Silky Terrier dog,0,other
+Silky Terrier,A realistic image of a Silky Terrier dog,2,other
+Silky Terrier,A realistic image of a Silky Terrier dog,3,other
+Silky Terrier,A realistic image of a Silky Terrier dog,8,other
+Silky Terrier,A photo of a Silky Terrier dog in a grassy field,1,other
+Silky Terrier,A photo of a Silky Terrier dog in a grassy field,3,other
+Silky Terrier,A photo of a Silky Terrier dog in a grassy field,5,other
+Silky Terrier,A photo of a Silky Terrier dog in a grassy field,6,other
+Silky Terrier,A studio photograph of a Silky Terrier dog on a plain background,3,other
+Silky Terrier,A studio photograph of a Silky Terrier dog on a plain background,6,other
+Silky Terrier,A studio photograph of a Silky Terrier dog on a plain background,9,other
+Silky Terrier,An action shot of a Silky Terrier dog running outdoors,5,other
+Silky Terrier,An action shot of a Silky Terrier dog running outdoors,6,other
+Silky Terrier,An action shot of a Silky Terrier dog running outdoors,9,other
+Silky Terrier,A close-up photo of a Silky Terrier dog looking at the camera,1,other
+Silky Terrier,A close-up photo of a Silky Terrier dog looking at the camera,2,other
+Silky Terrier,A close-up photo of a Silky Terrier dog looking at the camera,8,other
+Silky Terrier,A realistic image of a Silky Terrier dog,19,other
+Silky Terrier,A photo of a Silky Terrier dog in a grassy field,12,other
+Silky Terrier,A studio photograph of a Silky Terrier dog on a plain background,14,other
+Silky Terrier,A studio photograph of a Silky Terrier dog on a plain background,19,other
+Silky Terrier,An action shot of a Silky Terrier dog running outdoors,19,other
+Silky Terrier,A close-up photo of a Silky Terrier dog looking at the camera,11,other
+Silky Terrier,A close-up photo of a Silky Terrier dog looking at the camera,13,other
+Silky Terrier,An action shot of a Silky Terrier dog running outdoors,26,other
+West Highland White Terrier,A realistic image of a West Highland White Terrier dog,0,other
+West Highland White Terrier,A realistic image of a West Highland White Terrier dog,1,other
+West Highland White Terrier,A realistic image of a West Highland White Terrier dog,2,other
+West Highland White Terrier,A realistic image of a West Highland White Terrier dog,3,other
+West Highland White Terrier,A realistic image of a West Highland White Terrier dog,4,other
+West Highland White Terrier,A photo of a West Highland White Terrier dog in a grassy field,0,other
+West Highland White Terrier,A photo of a West Highland White Terrier dog in a grassy field,1,other
+West Highland White Terrier,A photo of a West Highland White Terrier dog in a grassy field,2,other
+West Highland White Terrier,A photo of a West Highland White Terrier dog in a grassy field,3,other
+West Highland White Terrier,A photo of a West Highland White Terrier dog in a grassy field,4,other
+West Highland White Terrier,A studio photograph of a West Highland White Terrier dog on a plain background,0,other
+West Highland White Terrier,A studio photograph of a West Highland White Terrier dog on a plain background,1,other
+West Highland White Terrier,A studio photograph of a West Highland White Terrier dog on a plain background,2,other
+West Highland White Terrier,A studio photograph of a West Highland White Terrier dog on a plain background,3,other
+West Highland White Terrier,A studio photograph of a West Highland White Terrier dog on a plain background,4,other
+West Highland White Terrier,An action shot of a West Highland White Terrier dog running outdoors,0,other
+West Highland White Terrier,An action shot of a West Highland White Terrier dog running outdoors,1,other
+West Highland White Terrier,An action shot of a West Highland White Terrier dog running outdoors,2,other
+West Highland White Terrier,An action shot of a West Highland White Terrier dog running outdoors,4,other
+West Highland White Terrier,An action shot of a West Highland White Terrier dog running outdoors,5,other
+West Highland White Terrier,A close-up photo of a West Highland White Terrier dog looking at the camera,0,other
+West Highland White Terrier,A close-up photo of a West Highland White Terrier dog looking at the camera,1,other
+West Highland White Terrier,A close-up photo of a West Highland White Terrier dog looking at the camera,2,other
+West Highland White Terrier,A close-up photo of a West Highland White Terrier dog looking at the camera,3,other
+West Highland White Terrier,A close-up photo of a West Highland White Terrier dog looking at the camera,4,other
+Lhasa,A realistic image of a Lhasa dog,1,other
+Lhasa,A realistic image of a Lhasa dog,5,other
+Lhasa,A realistic image of a Lhasa dog,8,other
+Lhasa,A photo of a Lhasa dog in a grassy field,6,other
+Lhasa,A photo of a Lhasa dog in a grassy field,8,other
+Lhasa,A studio photograph of a Lhasa dog on a plain background,0,other
+Lhasa,A studio photograph of a Lhasa dog on a plain background,6,other
+Lhasa,A studio photograph of a Lhasa dog on a plain background,9,other
+Lhasa,An action shot of a Lhasa dog running outdoors,0,other
+Lhasa,An action shot of a Lhasa dog running outdoors,5,other
+Lhasa,An action shot of a Lhasa dog running outdoors,7,other
+Lhasa,An action shot of a Lhasa dog running outdoors,9,other
+Lhasa,A close-up photo of a Lhasa dog looking at the camera,3,other
+Lhasa,A realistic image of a Lhasa dog,10,other
+Lhasa,A realistic image of a Lhasa dog,13,other
+Lhasa,A photo of a Lhasa dog in a grassy field,10,other
+Lhasa,A photo of a Lhasa dog in a grassy field,13,other
+Lhasa,A photo of a Lhasa dog in a grassy field,16,other
+Lhasa,A studio photograph of a Lhasa dog on a plain background,16,other
+Lhasa,A studio photograph of a Lhasa dog on a plain background,17,other
+Lhasa,An action shot of a Lhasa dog running outdoors,14,other
+Lhasa,A close-up photo of a Lhasa dog looking at the camera,11,other
+Lhasa,A close-up photo of a Lhasa dog looking at the camera,19,other
+Lhasa,A close-up photo of a Lhasa dog looking at the camera,21,other
+Lhasa,A close-up photo of a Lhasa dog looking at the camera,22,other
+Golden Retriever,A realistic image of a Golden Retriever dog,0,other
+Golden Retriever,A realistic image of a Golden Retriever dog,1,other
+Golden Retriever,A realistic image of a Golden Retriever dog,2,other
+Golden Retriever,A realistic image of a Golden Retriever dog,3,other
+Golden Retriever,A realistic image of a Golden Retriever dog,4,other
+Golden Retriever,A photo of a Golden Retriever dog in a grassy field,0,other
+Golden Retriever,A photo of a Golden Retriever dog in a grassy field,1,other
+Golden Retriever,A photo of a Golden Retriever dog in a grassy field,2,other
+Golden Retriever,A photo of a Golden Retriever dog in a grassy field,3,other
+Golden Retriever,A photo of a Golden Retriever dog in a grassy field,4,other
+Golden Retriever,A studio photograph of a Golden Retriever dog on a plain background,0,other
+Golden Retriever,A studio photograph of a Golden Retriever dog on a plain background,1,other
+Golden Retriever,A studio photograph of a Golden Retriever dog on a plain background,2,other
+Golden Retriever,A studio photograph of a Golden Retriever dog on a plain background,3,other
+Golden Retriever,A studio photograph of a Golden Retriever dog on a plain background,4,other
+Golden Retriever,An action shot of a Golden Retriever dog running outdoors,0,other
+Golden Retriever,An action shot of a Golden Retriever dog running outdoors,1,other
+Golden Retriever,An action shot of a Golden Retriever dog running outdoors,2,other
+Golden Retriever,An action shot of a Golden Retriever dog running outdoors,3,other
+Golden Retriever,An action shot of a Golden Retriever dog running outdoors,4,other
+Golden Retriever,A close-up photo of a Golden Retriever dog looking at the camera,0,other
+Golden Retriever,A close-up photo of a Golden Retriever dog looking at the camera,1,other
+Golden Retriever,A close-up photo of a Golden Retriever dog looking at the camera,2,other
+Golden Retriever,A close-up photo of a Golden Retriever dog looking at the camera,3,other
+Golden Retriever,A close-up photo of a Golden Retriever dog looking at the camera,4,other
+Labrador Retriever,A realistic image of a Labrador Retriever dog,2,other
+Labrador Retriever,A realistic image of a Labrador Retriever dog,3,other
+Labrador Retriever,A realistic image of a Labrador Retriever dog,5,other
+Labrador Retriever,A realistic image of a Labrador Retriever dog,6,other
+Labrador Retriever,A realistic image of a Labrador Retriever dog,7,other
+Labrador Retriever,A photo of a Labrador Retriever dog in a grassy field,0,other
+Labrador Retriever,A photo of a Labrador Retriever dog in a grassy field,2,other
+Labrador Retriever,A photo of a Labrador Retriever dog in a grassy field,4,other
+Labrador Retriever,A photo of a Labrador Retriever dog in a grassy field,6,other
+Labrador Retriever,A photo of a Labrador Retriever dog in a grassy field,7,other
+Labrador Retriever,A studio photograph of a Labrador Retriever dog on a plain background,0,other
+Labrador Retriever,A studio photograph of a Labrador Retriever dog on a plain background,2,other
+Labrador Retriever,A studio photograph of a Labrador Retriever dog on a plain background,3,other
+Labrador Retriever,A studio photograph of a Labrador Retriever dog on a plain background,5,other
+Labrador Retriever,A studio photograph of a Labrador Retriever dog on a plain background,7,other
+Labrador Retriever,An action shot of a Labrador Retriever dog running outdoors,0,other
+Labrador Retriever,An action shot of a Labrador Retriever dog running outdoors,2,other
+Labrador Retriever,A close-up photo of a Labrador Retriever dog looking at the camera,2,other
+Labrador Retriever,A close-up photo of a Labrador Retriever dog looking at the camera,3,other
+Labrador Retriever,A close-up photo of a Labrador Retriever dog looking at the camera,4,other
+Labrador Retriever,A close-up photo of a Labrador Retriever dog looking at the camera,5,other
+Labrador Retriever,A close-up photo of a Labrador Retriever dog looking at the camera,6,other
+Labrador Retriever,An action shot of a Labrador Retriever dog running outdoors,11,other
+Labrador Retriever,An action shot of a Labrador Retriever dog running outdoors,13,other
+Labrador Retriever,An action shot of a Labrador Retriever dog running outdoors,15,other
+Chesapeake Bay Retriever,A realistic image of a Chesapeake Bay Retriever dog,2,erased
+Chesapeake Bay Retriever,A realistic image of a Chesapeake Bay Retriever dog,6,erased
+Chesapeake Bay Retriever,A realistic image of a Chesapeake Bay Retriever dog,9,erased
+Chesapeake Bay Retriever,A photo of a Chesapeake Bay Retriever dog in a grassy field,2,erased
+Chesapeake Bay Retriever,A photo of a Chesapeake Bay Retriever dog in a grassy field,3,erased
+Chesapeake Bay Retriever,A photo of a Chesapeake Bay Retriever dog in a grassy field,9,erased
+Chesapeake Bay Retriever,A studio photograph of a Chesapeake Bay Retriever dog on a plain background,2,erased
+Chesapeake Bay Retriever,A studio photograph of a Chesapeake Bay Retriever dog on a plain background,3,erased
+Chesapeake Bay Retriever,A studio photograph of a Chesapeake Bay Retriever dog on a plain background,4,erased
+Chesapeake Bay Retriever,A studio photograph of a Chesapeake Bay Retriever dog on a plain background,5,erased
+Chesapeake Bay Retriever,A studio photograph of a Chesapeake Bay Retriever dog on a plain background,8,erased
+Chesapeake Bay Retriever,An action shot of a Chesapeake Bay Retriever dog running outdoors,0,erased
+Chesapeake Bay Retriever,An action shot of a Chesapeake Bay Retriever dog running outdoors,1,erased
+Chesapeake Bay Retriever,An action shot of a Chesapeake Bay Retriever dog running outdoors,3,erased
+Chesapeake Bay Retriever,An action shot of a Chesapeake Bay Retriever dog running outdoors,6,erased
+Chesapeake Bay Retriever,An action shot of a Chesapeake Bay Retriever dog running outdoors,9,erased
+Chesapeake Bay Retriever,A close-up photo of a Chesapeake Bay Retriever dog looking at the camera,4,erased
+Chesapeake Bay Retriever,A close-up photo of a Chesapeake Bay Retriever dog looking at the camera,5,erased
+Chesapeake Bay Retriever,A close-up photo of a Chesapeake Bay Retriever dog looking at the camera,7,erased
+Chesapeake Bay Retriever,A realistic image of a Chesapeake Bay Retriever dog,13,erased
+Chesapeake Bay Retriever,A realistic image of a Chesapeake Bay Retriever dog,14,erased
+Chesapeake Bay Retriever,A photo of a Chesapeake Bay Retriever dog in a grassy field,11,erased
+Chesapeake Bay Retriever,A photo of a Chesapeake Bay Retriever dog in a grassy field,12,erased
+Chesapeake Bay Retriever,A close-up photo of a Chesapeake Bay Retriever dog looking at the camera,14,erased
+Chesapeake Bay Retriever,A close-up photo of a Chesapeake Bay Retriever dog looking at the camera,15,erased
+Vizsla,A realistic image of a Vizsla dog,0,other
+Vizsla,A realistic image of a Vizsla dog,2,other
+Vizsla,A realistic image of a Vizsla dog,5,other
+Vizsla,A realistic image of a Vizsla dog,6,other
+Vizsla,A realistic image of a Vizsla dog,7,other
+Vizsla,A photo of a Vizsla dog in a grassy field,0,other
+Vizsla,A photo of a Vizsla dog in a grassy field,1,other
+Vizsla,A photo of a Vizsla dog in a grassy field,2,other
+Vizsla,A photo of a Vizsla dog in a grassy field,5,other
+Vizsla,A photo of a Vizsla dog in a grassy field,7,other
+Vizsla,A studio photograph of a Vizsla dog on a plain background,0,other
+Vizsla,A studio photograph of a Vizsla dog on a plain background,2,other
+Vizsla,A studio photograph of a Vizsla dog on a plain background,5,other
+Vizsla,A studio photograph of a Vizsla dog on a plain background,6,other
+Vizsla,A studio photograph of a Vizsla dog on a plain background,9,other
+Vizsla,An action shot of a Vizsla dog running outdoors,0,other
+Vizsla,An action shot of a Vizsla dog running outdoors,1,other
+Vizsla,An action shot of a Vizsla dog running outdoors,2,other
+Vizsla,An action shot of a Vizsla dog running outdoors,5,other
+Vizsla,An action shot of a Vizsla dog running outdoors,6,other
+Vizsla,A close-up photo of a Vizsla dog looking at the camera,7,other
+Vizsla,A close-up photo of a Vizsla dog looking at the camera,9,other
+Vizsla,A close-up photo of a Vizsla dog looking at the camera,10,other
+Vizsla,A close-up photo of a Vizsla dog looking at the camera,12,other
+Vizsla,A close-up photo of a Vizsla dog looking at the camera,13,other
+English Setter,A realistic image of a English Setter dog,6,other
+English Setter,A realistic image of a English Setter dog,7,other
+English Setter,A photo of a English Setter dog in a grassy field,0,other
+English Setter,A photo of a English Setter dog in a grassy field,1,other
+English Setter,A photo of a English Setter dog in a grassy field,2,other
+English Setter,A photo of a English Setter dog in a grassy field,5,other
+English Setter,A photo of a English Setter dog in a grassy field,6,other
+English Setter,A studio photograph of a English Setter dog on a plain background,0,other
+English Setter,A studio photograph of a English Setter dog on a plain background,4,other
+English Setter,A studio photograph of a English Setter dog on a plain background,5,other
+English Setter,A studio photograph of a English Setter dog on a plain background,6,other
+English Setter,A studio photograph of a English Setter dog on a plain background,8,other
+English Setter,An action shot of a English Setter dog running outdoors,1,other
+English Setter,An action shot of a English Setter dog running outdoors,2,other
+English Setter,An action shot of a English Setter dog running outdoors,3,other
+English Setter,An action shot of a English Setter dog running outdoors,4,other
+English Setter,An action shot of a English Setter dog running outdoors,6,other
+English Setter,A close-up photo of a English Setter dog looking at the camera,1,other
+English Setter,A close-up photo of a English Setter dog looking at the camera,2,other
+English Setter,A close-up photo of a English Setter dog looking at the camera,3,other
+English Setter,A close-up photo of a English Setter dog looking at the camera,4,other
+English Setter,A close-up photo of a English Setter dog looking at the camera,7,other
+English Setter,A realistic image of a English Setter dog,12,other
+English Setter,A realistic image of a English Setter dog,17,other
+English Setter,A realistic image of a English Setter dog,20,other
+Irish Setter,A realistic image of a Irish Setter dog,0,other
+Irish Setter,A realistic image of a Irish Setter dog,1,other
+Irish Setter,A realistic image of a Irish Setter dog,2,other
+Irish Setter,A realistic image of a Irish Setter dog,3,other
+Irish Setter,A realistic image of a Irish Setter dog,4,other
+Irish Setter,A photo of a Irish Setter dog in a grassy field,0,other
+Irish Setter,A photo of a Irish Setter dog in a grassy field,1,other
+Irish Setter,A photo of a Irish Setter dog in a grassy field,2,other
+Irish Setter,A photo of a Irish Setter dog in a grassy field,3,other
+Irish Setter,A photo of a Irish Setter dog in a grassy field,4,other
+Irish Setter,A studio photograph of a Irish Setter dog on a plain background,0,other
+Irish Setter,A studio photograph of a Irish Setter dog on a plain background,1,other
+Irish Setter,A studio photograph of a Irish Setter dog on a plain background,2,other
+Irish Setter,A studio photograph of a Irish Setter dog on a plain background,3,other
+Irish Setter,A studio photograph of a Irish Setter dog on a plain background,4,other
+Irish Setter,An action shot of a Irish Setter dog running outdoors,0,other
+Irish Setter,An action shot of a Irish Setter dog running outdoors,2,other
+Irish Setter,An action shot of a Irish Setter dog running outdoors,3,other
+Irish Setter,An action shot of a Irish Setter dog running outdoors,4,other
+Irish Setter,An action shot of a Irish Setter dog running outdoors,5,other
+Irish Setter,A close-up photo of a Irish Setter dog looking at the camera,0,other
+Irish Setter,A close-up photo of a Irish Setter dog looking at the camera,2,other
+Irish Setter,A close-up photo of a Irish Setter dog looking at the camera,3,other
+Irish Setter,A close-up photo of a Irish Setter dog looking at the camera,4,other
+Irish Setter,A close-up photo of a Irish Setter dog looking at the camera,5,other
+Gordon Setter,A realistic image of a Gordon Setter dog,1,other
+Gordon Setter,A realistic image of a Gordon Setter dog,3,other
+Gordon Setter,A realistic image of a Gordon Setter dog,4,other
+Gordon Setter,A realistic image of a Gordon Setter dog,5,other
+Gordon Setter,A realistic image of a Gordon Setter dog,6,other
+Gordon Setter,A photo of a Gordon Setter dog in a grassy field,0,other
+Gordon Setter,A photo of a Gordon Setter dog in a grassy field,1,other
+Gordon Setter,A photo of a Gordon Setter dog in a grassy field,2,other
+Gordon Setter,A photo of a Gordon Setter dog in a grassy field,3,other
+Gordon Setter,A photo of a Gordon Setter dog in a grassy field,4,other
+Gordon Setter,A studio photograph of a Gordon Setter dog on a plain background,0,other
+Gordon Setter,A studio photograph of a Gordon Setter dog on a plain background,1,other
+Gordon Setter,A studio photograph of a Gordon Setter dog on a plain background,2,other
+Gordon Setter,A studio photograph of a Gordon Setter dog on a plain background,3,other
+Gordon Setter,A studio photograph of a Gordon Setter dog on a plain background,4,other
+Gordon Setter,An action shot of a Gordon Setter dog running outdoors,0,other
+Gordon Setter,An action shot of a Gordon Setter dog running outdoors,1,other
+Gordon Setter,An action shot of a Gordon Setter dog running outdoors,2,other
+Gordon Setter,An action shot of a Gordon Setter dog running outdoors,3,other
+Gordon Setter,An action shot of a Gordon Setter dog running outdoors,4,other
+Gordon Setter,A close-up photo of a Gordon Setter dog looking at the camera,9,other
+Gordon Setter,A close-up photo of a Gordon Setter dog looking at the camera,15,other
+Gordon Setter,A close-up photo of a Gordon Setter dog looking at the camera,19,other
+Gordon Setter,A close-up photo of a Gordon Setter dog looking at the camera,20,other
+Gordon Setter,A close-up photo of a Gordon Setter dog looking at the camera,22,other
+Brittany Spaniel,A realistic image of a Brittany Spaniel dog,0,other
+Brittany Spaniel,A realistic image of a Brittany Spaniel dog,3,other
+Brittany Spaniel,A realistic image of a Brittany Spaniel dog,4,other
+Brittany Spaniel,A realistic image of a Brittany Spaniel dog,7,other
+Brittany Spaniel,A realistic image of a Brittany Spaniel dog,8,other
+Brittany Spaniel,A photo of a Brittany Spaniel dog in a grassy field,1,other
+Brittany Spaniel,A photo of a Brittany Spaniel dog in a grassy field,7,other
+Brittany Spaniel,A photo of a Brittany Spaniel dog in a grassy field,8,other
+Brittany Spaniel,A photo of a Brittany Spaniel dog in a grassy field,9,other
+Brittany Spaniel,A studio photograph of a Brittany Spaniel dog on a plain background,0,other
+Brittany Spaniel,A studio photograph of a Brittany Spaniel dog on a plain background,4,other
+Brittany Spaniel,A studio photograph of a Brittany Spaniel dog on a plain background,7,other
+Brittany Spaniel,A studio photograph of a Brittany Spaniel dog on a plain background,9,other
+Brittany Spaniel,An action shot of a Brittany Spaniel dog running outdoors,0,other
+Brittany Spaniel,An action shot of a Brittany Spaniel dog running outdoors,1,other
+Brittany Spaniel,An action shot of a Brittany Spaniel dog running outdoors,4,other
+Brittany Spaniel,An action shot of a Brittany Spaniel dog running outdoors,6,other
+Brittany Spaniel,An action shot of a Brittany Spaniel dog running outdoors,7,other
+Brittany Spaniel,A close-up photo of a Brittany Spaniel dog looking at the camera,0,other
+Brittany Spaniel,A close-up photo of a Brittany Spaniel dog looking at the camera,1,other
+Brittany Spaniel,A close-up photo of a Brittany Spaniel dog looking at the camera,4,other
+Brittany Spaniel,A close-up photo of a Brittany Spaniel dog looking at the camera,6,other
+Brittany Spaniel,A close-up photo of a Brittany Spaniel dog looking at the camera,7,other
+Brittany Spaniel,A photo of a Brittany Spaniel dog in a grassy field,10,other
+Brittany Spaniel,A studio photograph of a Brittany Spaniel dog on a plain background,10,other
+English Springer,A realistic image of a English Springer dog,1,other
+English Springer,A realistic image of a English Springer dog,7,other
+English Springer,A realistic image of a English Springer dog,8,other
+English Springer,A realistic image of a English Springer dog,9,other
+English Springer,A photo of a English Springer dog in a grassy field,0,other
+English Springer,A photo of a English Springer dog in a grassy field,1,other
+English Springer,A photo of a English Springer dog in a grassy field,3,other
+English Springer,A photo of a English Springer dog in a grassy field,6,other
+English Springer,A photo of a English Springer dog in a grassy field,7,other
+English Springer,A studio photograph of a English Springer dog on a plain background,0,other
+English Springer,A studio photograph of a English Springer dog on a plain background,1,other
+English Springer,A studio photograph of a English Springer dog on a plain background,2,other
+English Springer,A studio photograph of a English Springer dog on a plain background,3,other
+English Springer,A studio photograph of a English Springer dog on a plain background,6,other
+English Springer,An action shot of a English Springer dog running outdoors,0,other
+English Springer,An action shot of a English Springer dog running outdoors,1,other
+English Springer,An action shot of a English Springer dog running outdoors,2,other
+English Springer,An action shot of a English Springer dog running outdoors,3,other
+English Springer,An action shot of a English Springer dog running outdoors,4,other
+English Springer,A close-up photo of a English Springer dog looking at the camera,2,other
+English Springer,A close-up photo of a English Springer dog looking at the camera,5,other
+English Springer,A realistic image of a English Springer dog,10,other
+English Springer,A close-up photo of a English Springer dog looking at the camera,11,other
+English Springer,A close-up photo of a English Springer dog looking at the camera,12,other
+English Springer,A close-up photo of a English Springer dog looking at the camera,16,other
+Welsh Springer Spaniel,A realistic image of a Welsh Springer Spaniel dog,2,other
+Welsh Springer Spaniel,A realistic image of a Welsh Springer Spaniel dog,5,other
+Welsh Springer Spaniel,A photo of a Welsh Springer Spaniel dog in a grassy field,2,other
+Welsh Springer Spaniel,A studio photograph of a Welsh Springer Spaniel dog on a plain background,1,other
+Welsh Springer Spaniel,A studio photograph of a Welsh Springer Spaniel dog on a plain background,3,other
+Welsh Springer Spaniel,A studio photograph of a Welsh Springer Spaniel dog on a plain background,4,other
+Welsh Springer Spaniel,A studio photograph of a Welsh Springer Spaniel dog on a plain background,5,other
+Welsh Springer Spaniel,A studio photograph of a Welsh Springer Spaniel dog on a plain background,6,other
+Welsh Springer Spaniel,An action shot of a Welsh Springer Spaniel dog running outdoors,4,other
+Welsh Springer Spaniel,An action shot of a Welsh Springer Spaniel dog running outdoors,8,other
+Welsh Springer Spaniel,A close-up photo of a Welsh Springer Spaniel dog looking at the camera,2,other
+Welsh Springer Spaniel,A close-up photo of a Welsh Springer Spaniel dog looking at the camera,4,other
+Welsh Springer Spaniel,A close-up photo of a Welsh Springer Spaniel dog looking at the camera,8,other
+Welsh Springer Spaniel,A realistic image of a Welsh Springer Spaniel dog,10,other
+Welsh Springer Spaniel,A realistic image of a Welsh Springer Spaniel dog,11,other
+Welsh Springer Spaniel,A realistic image of a Welsh Springer Spaniel dog,13,other
+Welsh Springer Spaniel,A photo of a Welsh Springer Spaniel dog in a grassy field,12,other
+Welsh Springer Spaniel,A photo of a Welsh Springer Spaniel dog in a grassy field,15,other
+Welsh Springer Spaniel,A photo of a Welsh Springer Spaniel dog in a grassy field,16,other
+Welsh Springer Spaniel,A photo of a Welsh Springer Spaniel dog in a grassy field,17,other
+Welsh Springer Spaniel,An action shot of a Welsh Springer Spaniel dog running outdoors,12,other
+Welsh Springer Spaniel,An action shot of a Welsh Springer Spaniel dog running outdoors,13,other
+Welsh Springer Spaniel,An action shot of a Welsh Springer Spaniel dog running outdoors,17,other
+Welsh Springer Spaniel,A close-up photo of a Welsh Springer Spaniel dog looking at the camera,11,other
+Welsh Springer Spaniel,A close-up photo of a Welsh Springer Spaniel dog looking at the camera,13,other
+Cocker Spaniel,A realistic image of a Cocker Spaniel dog,0,other
+Cocker Spaniel,A realistic image of a Cocker Spaniel dog,2,other
+Cocker Spaniel,A realistic image of a Cocker Spaniel dog,3,other
+Cocker Spaniel,A realistic image of a Cocker Spaniel dog,4,other
+Cocker Spaniel,A realistic image of a Cocker Spaniel dog,5,other
+Cocker Spaniel,A photo of a Cocker Spaniel dog in a grassy field,0,other
+Cocker Spaniel,A photo of a Cocker Spaniel dog in a grassy field,1,other
+Cocker Spaniel,A photo of a Cocker Spaniel dog in a grassy field,2,other
+Cocker Spaniel,A photo of a Cocker Spaniel dog in a grassy field,4,other
+Cocker Spaniel,A photo of a Cocker Spaniel dog in a grassy field,5,other
+Cocker Spaniel,A studio photograph of a Cocker Spaniel dog on a plain background,0,other
+Cocker Spaniel,A studio photograph of a Cocker Spaniel dog on a plain background,2,other
+Cocker Spaniel,A studio photograph of a Cocker Spaniel dog on a plain background,3,other
+Cocker Spaniel,A studio photograph of a Cocker Spaniel dog on a plain background,4,other
+Cocker Spaniel,A studio photograph of a Cocker Spaniel dog on a plain background,5,other
+Cocker Spaniel,An action shot of a Cocker Spaniel dog running outdoors,0,other
+Cocker Spaniel,An action shot of a Cocker Spaniel dog running outdoors,1,other
+Cocker Spaniel,An action shot of a Cocker Spaniel dog running outdoors,2,other
+Cocker Spaniel,An action shot of a Cocker Spaniel dog running outdoors,3,other
+Cocker Spaniel,An action shot of a Cocker Spaniel dog running outdoors,4,other
+Cocker Spaniel,A close-up photo of a Cocker Spaniel dog looking at the camera,2,other
+Cocker Spaniel,A close-up photo of a Cocker Spaniel dog looking at the camera,7,other
+Cocker Spaniel,A close-up photo of a Cocker Spaniel dog looking at the camera,8,other
+Cocker Spaniel,A close-up photo of a Cocker Spaniel dog looking at the camera,9,other
+Cocker Spaniel,A close-up photo of a Cocker Spaniel dog looking at the camera,10,other
+Sussex Spaniel,A realistic image of a Sussex Spaniel dog,3,other
+Sussex Spaniel,A realistic image of a Sussex Spaniel dog,5,other
+Sussex Spaniel,A realistic image of a Sussex Spaniel dog,6,other
+Sussex Spaniel,A realistic image of a Sussex Spaniel dog,8,other
+Sussex Spaniel,A photo of a Sussex Spaniel dog in a grassy field,1,other
+Sussex Spaniel,A photo of a Sussex Spaniel dog in a grassy field,3,other
+Sussex Spaniel,A photo of a Sussex Spaniel dog in a grassy field,6,other
+Sussex Spaniel,A photo of a Sussex Spaniel dog in a grassy field,8,other
+Sussex Spaniel,A studio photograph of a Sussex Spaniel dog on a plain background,7,other
+Sussex Spaniel,A studio photograph of a Sussex Spaniel dog on a plain background,9,other
+Sussex Spaniel,An action shot of a Sussex Spaniel dog running outdoors,1,other
+Sussex Spaniel,An action shot of a Sussex Spaniel dog running outdoors,5,other
+Sussex Spaniel,An action shot of a Sussex Spaniel dog running outdoors,7,other
+Sussex Spaniel,An action shot of a Sussex Spaniel dog running outdoors,9,other
+Sussex Spaniel,A close-up photo of a Sussex Spaniel dog looking at the camera,4,other
+Sussex Spaniel,A close-up photo of a Sussex Spaniel dog looking at the camera,5,other
+Sussex Spaniel,A close-up photo of a Sussex Spaniel dog looking at the camera,6,other
+Sussex Spaniel,A close-up photo of a Sussex Spaniel dog looking at the camera,8,other
+Sussex Spaniel,A realistic image of a Sussex Spaniel dog,10,other
+Sussex Spaniel,A photo of a Sussex Spaniel dog in a grassy field,10,other
+Sussex Spaniel,A studio photograph of a Sussex Spaniel dog on a plain background,10,other
+Sussex Spaniel,A studio photograph of a Sussex Spaniel dog on a plain background,14,other
+Sussex Spaniel,A studio photograph of a Sussex Spaniel dog on a plain background,16,other
+Sussex Spaniel,An action shot of a Sussex Spaniel dog running outdoors,10,other
+Sussex Spaniel,A close-up photo of a Sussex Spaniel dog looking at the camera,11,other
+Irish Water Spaniel,A realistic image of a Irish Water Spaniel dog,1,other
+Irish Water Spaniel,A realistic image of a Irish Water Spaniel dog,3,other
+Irish Water Spaniel,A realistic image of a Irish Water Spaniel dog,4,other
+Irish Water Spaniel,A realistic image of a Irish Water Spaniel dog,5,other
+Irish Water Spaniel,A realistic image of a Irish Water Spaniel dog,6,other
+Irish Water Spaniel,A photo of a Irish Water Spaniel dog in a grassy field,2,other
+Irish Water Spaniel,A photo of a Irish Water Spaniel dog in a grassy field,3,other
+Irish Water Spaniel,A photo of a Irish Water Spaniel dog in a grassy field,4,other
+Irish Water Spaniel,A photo of a Irish Water Spaniel dog in a grassy field,5,other
+Irish Water Spaniel,A photo of a Irish Water Spaniel dog in a grassy field,7,other
+Irish Water Spaniel,A studio photograph of a Irish Water Spaniel dog on a plain background,2,other
+Irish Water Spaniel,A studio photograph of a Irish Water Spaniel dog on a plain background,3,other
+Irish Water Spaniel,A studio photograph of a Irish Water Spaniel dog on a plain background,4,other
+Irish Water Spaniel,A studio photograph of a Irish Water Spaniel dog on a plain background,5,other
+Irish Water Spaniel,A studio photograph of a Irish Water Spaniel dog on a plain background,7,other
+Irish Water Spaniel,An action shot of a Irish Water Spaniel dog running outdoors,0,other
+Irish Water Spaniel,An action shot of a Irish Water Spaniel dog running outdoors,1,other
+Irish Water Spaniel,An action shot of a Irish Water Spaniel dog running outdoors,2,other
+Irish Water Spaniel,An action shot of a Irish Water Spaniel dog running outdoors,3,other
+Irish Water Spaniel,An action shot of a Irish Water Spaniel dog running outdoors,4,other
+Irish Water Spaniel,A close-up photo of a Irish Water Spaniel dog looking at the camera,0,other
+Irish Water Spaniel,A close-up photo of a Irish Water Spaniel dog looking at the camera,1,other
+Irish Water Spaniel,A close-up photo of a Irish Water Spaniel dog looking at the camera,2,other
+Irish Water Spaniel,A close-up photo of a Irish Water Spaniel dog looking at the camera,4,other
+Irish Water Spaniel,A close-up photo of a Irish Water Spaniel dog looking at the camera,5,other
+Kuvasz,A realistic image of a Kuvasz dog,0,other
+Kuvasz,A realistic image of a Kuvasz dog,1,other
+Kuvasz,A realistic image of a Kuvasz dog,2,other
+Kuvasz,A realistic image of a Kuvasz dog,3,other
+Kuvasz,A realistic image of a Kuvasz dog,4,other
+Kuvasz,A photo of a Kuvasz dog in a grassy field,0,other
+Kuvasz,A photo of a Kuvasz dog in a grassy field,1,other
+Kuvasz,A photo of a Kuvasz dog in a grassy field,2,other
+Kuvasz,A photo of a Kuvasz dog in a grassy field,3,other
+Kuvasz,A photo of a Kuvasz dog in a grassy field,4,other
+Kuvasz,A studio photograph of a Kuvasz dog on a plain background,0,other
+Kuvasz,A studio photograph of a Kuvasz dog on a plain background,1,other
+Kuvasz,A studio photograph of a Kuvasz dog on a plain background,2,other
+Kuvasz,A studio photograph of a Kuvasz dog on a plain background,4,other
+Kuvasz,A studio photograph of a Kuvasz dog on a plain background,5,other
+Kuvasz,An action shot of a Kuvasz dog running outdoors,0,other
+Kuvasz,An action shot of a Kuvasz dog running outdoors,1,other
+Kuvasz,An action shot of a Kuvasz dog running outdoors,2,other
+Kuvasz,An action shot of a Kuvasz dog running outdoors,3,other
+Kuvasz,An action shot of a Kuvasz dog running outdoors,4,other
+Kuvasz,A close-up photo of a Kuvasz dog looking at the camera,3,other
+Kuvasz,A close-up photo of a Kuvasz dog looking at the camera,7,other
+Kuvasz,A close-up photo of a Kuvasz dog looking at the camera,8,other
+Kuvasz,A close-up photo of a Kuvasz dog looking at the camera,11,other
+Kuvasz,A close-up photo of a Kuvasz dog looking at the camera,13,other
+Schipperke,A realistic image of a Schipperke dog,0,other
+Schipperke,A realistic image of a Schipperke dog,1,other
+Schipperke,A realistic image of a Schipperke dog,2,other
+Schipperke,A realistic image of a Schipperke dog,4,other
+Schipperke,A realistic image of a Schipperke dog,5,other
+Schipperke,A photo of a Schipperke dog in a grassy field,1,other
+Schipperke,A photo of a Schipperke dog in a grassy field,2,other
+Schipperke,A photo of a Schipperke dog in a grassy field,3,other
+Schipperke,A photo of a Schipperke dog in a grassy field,5,other
+Schipperke,A photo of a Schipperke dog in a grassy field,6,other
+Schipperke,A studio photograph of a Schipperke dog on a plain background,1,other
+Schipperke,A studio photograph of a Schipperke dog on a plain background,2,other
+Schipperke,A studio photograph of a Schipperke dog on a plain background,4,other
+Schipperke,A studio photograph of a Schipperke dog on a plain background,7,other
+Schipperke,A studio photograph of a Schipperke dog on a plain background,8,other
+Schipperke,An action shot of a Schipperke dog running outdoors,0,other
+Schipperke,An action shot of a Schipperke dog running outdoors,1,other
+Schipperke,An action shot of a Schipperke dog running outdoors,2,other
+Schipperke,An action shot of a Schipperke dog running outdoors,3,other
+Schipperke,An action shot of a Schipperke dog running outdoors,4,other
+Schipperke,A close-up photo of a Schipperke dog looking at the camera,1,other
+Schipperke,A close-up photo of a Schipperke dog looking at the camera,2,other
+Schipperke,A close-up photo of a Schipperke dog looking at the camera,3,other
+Schipperke,A close-up photo of a Schipperke dog looking at the camera,4,other
+Schipperke,A close-up photo of a Schipperke dog looking at the camera,5,other
+Groenendael,A realistic image of a Groenendael dog,0,other
+Groenendael,A realistic image of a Groenendael dog,2,other
+Groenendael,A realistic image of a Groenendael dog,3,other
+Groenendael,A realistic image of a Groenendael dog,4,other
+Groenendael,A realistic image of a Groenendael dog,5,other
+Groenendael,A photo of a Groenendael dog in a grassy field,0,other
+Groenendael,A photo of a Groenendael dog in a grassy field,1,other
+Groenendael,A photo of a Groenendael dog in a grassy field,2,other
+Groenendael,A photo of a Groenendael dog in a grassy field,3,other
+Groenendael,A photo of a Groenendael dog in a grassy field,4,other
+Groenendael,A studio photograph of a Groenendael dog on a plain background,0,other
+Groenendael,A studio photograph of a Groenendael dog on a plain background,2,other
+Groenendael,A studio photograph of a Groenendael dog on a plain background,3,other
+Groenendael,A studio photograph of a Groenendael dog on a plain background,4,other
+Groenendael,A studio photograph of a Groenendael dog on a plain background,5,other
+Groenendael,An action shot of a Groenendael dog running outdoors,0,other
+Groenendael,An action shot of a Groenendael dog running outdoors,2,other
+Groenendael,An action shot of a Groenendael dog running outdoors,4,other
+Groenendael,An action shot of a Groenendael dog running outdoors,5,other
+Groenendael,An action shot of a Groenendael dog running outdoors,6,other
+Groenendael,A close-up photo of a Groenendael dog looking at the camera,1,other
+Groenendael,A close-up photo of a Groenendael dog looking at the camera,2,other
+Groenendael,A close-up photo of a Groenendael dog looking at the camera,3,other
+Groenendael,A close-up photo of a Groenendael dog looking at the camera,4,other
+Groenendael,A close-up photo of a Groenendael dog looking at the camera,5,other
+Malinois,A realistic image of a Malinois dog,0,other
+Malinois,A realistic image of a Malinois dog,1,other
+Malinois,A realistic image of a Malinois dog,3,other
+Malinois,A realistic image of a Malinois dog,4,other
+Malinois,A realistic image of a Malinois dog,5,other
+Malinois,A photo of a Malinois dog in a grassy field,1,other
+Malinois,A photo of a Malinois dog in a grassy field,2,other
+Malinois,A photo of a Malinois dog in a grassy field,3,other
+Malinois,A photo of a Malinois dog in a grassy field,4,other
+Malinois,A photo of a Malinois dog in a grassy field,5,other
+Malinois,A studio photograph of a Malinois dog on a plain background,1,other
+Malinois,A studio photograph of a Malinois dog on a plain background,2,other
+Malinois,A studio photograph of a Malinois dog on a plain background,3,other
+Malinois,A studio photograph of a Malinois dog on a plain background,4,other
+Malinois,A studio photograph of a Malinois dog on a plain background,5,other
+Malinois,An action shot of a Malinois dog running outdoors,0,other
+Malinois,An action shot of a Malinois dog running outdoors,1,other
+Malinois,An action shot of a Malinois dog running outdoors,4,other
+Malinois,An action shot of a Malinois dog running outdoors,5,other
+Malinois,An action shot of a Malinois dog running outdoors,6,other
+Malinois,A close-up photo of a Malinois dog looking at the camera,3,other
+Malinois,A close-up photo of a Malinois dog looking at the camera,4,other
+Malinois,A close-up photo of a Malinois dog looking at the camera,5,other
+Malinois,A close-up photo of a Malinois dog looking at the camera,6,other
+Malinois,A close-up photo of a Malinois dog looking at the camera,7,other
+Briard,A realistic image of a Briard dog,1,other
+Briard,A realistic image of a Briard dog,6,other
+Briard,A realistic image of a Briard dog,8,other
+Briard,A photo of a Briard dog in a grassy field,3,other
+Briard,A studio photograph of a Briard dog on a plain background,1,other
+Briard,A studio photograph of a Briard dog on a plain background,4,other
+Briard,A studio photograph of a Briard dog on a plain background,6,other
+Briard,An action shot of a Briard dog running outdoors,0,other
+Briard,An action shot of a Briard dog running outdoors,3,other
+Briard,A close-up photo of a Briard dog looking at the camera,1,other
+Briard,A realistic image of a Briard dog,10,other
+Briard,A realistic image of a Briard dog,11,other
+Briard,A photo of a Briard dog in a grassy field,10,other
+Briard,A photo of a Briard dog in a grassy field,12,other
+Briard,A photo of a Briard dog in a grassy field,14,other
+Briard,A photo of a Briard dog in a grassy field,17,other
+Briard,A studio photograph of a Briard dog on a plain background,10,other
+Briard,A studio photograph of a Briard dog on a plain background,12,other
+Briard,An action shot of a Briard dog running outdoors,17,other
+Briard,An action shot of a Briard dog running outdoors,18,other
+Briard,A close-up photo of a Briard dog looking at the camera,10,other
+Briard,A close-up photo of a Briard dog looking at the camera,13,other
+Briard,A close-up photo of a Briard dog looking at the camera,18,other
+Briard,An action shot of a Briard dog running outdoors,24,other
+Briard,A close-up photo of a Briard dog looking at the camera,29,other
+Kelpie,A realistic image of a Kelpie dog,2,other
+Kelpie,A realistic image of a Kelpie dog,5,other
+Kelpie,A realistic image of a Kelpie dog,6,other
+Kelpie,A realistic image of a Kelpie dog,7,other
+Kelpie,A realistic image of a Kelpie dog,9,other
+Kelpie,A photo of a Kelpie dog in a grassy field,1,other
+Kelpie,A photo of a Kelpie dog in a grassy field,2,other
+Kelpie,A photo of a Kelpie dog in a grassy field,3,other
+Kelpie,A photo of a Kelpie dog in a grassy field,5,other
+Kelpie,A photo of a Kelpie dog in a grassy field,6,other
+Kelpie,A studio photograph of a Kelpie dog on a plain background,4,other
+Kelpie,A studio photograph of a Kelpie dog on a plain background,5,other
+Kelpie,An action shot of a Kelpie dog running outdoors,1,other
+Kelpie,An action shot of a Kelpie dog running outdoors,3,other
+Kelpie,An action shot of a Kelpie dog running outdoors,4,other
+Kelpie,An action shot of a Kelpie dog running outdoors,7,other
+Kelpie,A close-up photo of a Kelpie dog looking at the camera,2,other
+Kelpie,A close-up photo of a Kelpie dog looking at the camera,3,other
+Kelpie,A studio photograph of a Kelpie dog on a plain background,19,other
+Kelpie,An action shot of a Kelpie dog running outdoors,10,other
+Kelpie,A close-up photo of a Kelpie dog looking at the camera,14,other
+Kelpie,A close-up photo of a Kelpie dog looking at the camera,19,other
+Kelpie,A studio photograph of a Kelpie dog on a plain background,23,other
+Kelpie,A studio photograph of a Kelpie dog on a plain background,24,other
+Kelpie,A close-up photo of a Kelpie dog looking at the camera,22,other
+Komondor,A realistic image of a Komondor dog,0,other
+Komondor,A realistic image of a Komondor dog,2,other
+Komondor,A realistic image of a Komondor dog,3,other
+Komondor,A realistic image of a Komondor dog,4,other
+Komondor,A realistic image of a Komondor dog,7,other
+Komondor,A photo of a Komondor dog in a grassy field,0,other
+Komondor,A photo of a Komondor dog in a grassy field,1,other
+Komondor,A photo of a Komondor dog in a grassy field,2,other
+Komondor,A photo of a Komondor dog in a grassy field,3,other
+Komondor,A photo of a Komondor dog in a grassy field,4,other
+Komondor,A studio photograph of a Komondor dog on a plain background,1,other
+Komondor,A studio photograph of a Komondor dog on a plain background,2,other
+Komondor,A studio photograph of a Komondor dog on a plain background,3,other
+Komondor,A studio photograph of a Komondor dog on a plain background,7,other
+Komondor,A studio photograph of a Komondor dog on a plain background,9,other
+Komondor,An action shot of a Komondor dog running outdoors,1,other
+Komondor,An action shot of a Komondor dog running outdoors,2,other
+Komondor,An action shot of a Komondor dog running outdoors,3,other
+Komondor,An action shot of a Komondor dog running outdoors,4,other
+Komondor,An action shot of a Komondor dog running outdoors,5,other
+Komondor,A close-up photo of a Komondor dog looking at the camera,0,other
+Komondor,A close-up photo of a Komondor dog looking at the camera,1,other
+Komondor,A close-up photo of a Komondor dog looking at the camera,4,other
+Komondor,A close-up photo of a Komondor dog looking at the camera,7,other
+Komondor,A close-up photo of a Komondor dog looking at the camera,9,other
+Old English Sheepdog,A realistic image of a Old English Sheepdog dog,1,other
+Old English Sheepdog,A realistic image of a Old English Sheepdog dog,3,other
+Old English Sheepdog,A photo of a Old English Sheepdog dog in a grassy field,0,other
+Old English Sheepdog,A photo of a Old English Sheepdog dog in a grassy field,4,other
+Old English Sheepdog,A photo of a Old English Sheepdog dog in a grassy field,5,other
+Old English Sheepdog,A photo of a Old English Sheepdog dog in a grassy field,6,other
+Old English Sheepdog,A photo of a Old English Sheepdog dog in a grassy field,8,other
+Old English Sheepdog,A studio photograph of a Old English Sheepdog dog on a plain background,3,other
+Old English Sheepdog,A studio photograph of a Old English Sheepdog dog on a plain background,5,other
+Old English Sheepdog,A studio photograph of a Old English Sheepdog dog on a plain background,8,other
+Old English Sheepdog,A studio photograph of a Old English Sheepdog dog on a plain background,9,other
+Old English Sheepdog,An action shot of a Old English Sheepdog dog running outdoors,0,other
+Old English Sheepdog,An action shot of a Old English Sheepdog dog running outdoors,1,other
+Old English Sheepdog,An action shot of a Old English Sheepdog dog running outdoors,5,other
+Old English Sheepdog,An action shot of a Old English Sheepdog dog running outdoors,6,other
+Old English Sheepdog,An action shot of a Old English Sheepdog dog running outdoors,7,other
+Old English Sheepdog,A close-up photo of a Old English Sheepdog dog looking at the camera,0,other
+Old English Sheepdog,A close-up photo of a Old English Sheepdog dog looking at the camera,7,other
+Old English Sheepdog,A realistic image of a Old English Sheepdog dog,15,other
+Old English Sheepdog,A studio photograph of a Old English Sheepdog dog on a plain background,10,other
+Old English Sheepdog,A close-up photo of a Old English Sheepdog dog looking at the camera,13,other
+Old English Sheepdog,A close-up photo of a Old English Sheepdog dog looking at the camera,14,other
+Old English Sheepdog,A realistic image of a Old English Sheepdog dog,21,other
+Old English Sheepdog,A realistic image of a Old English Sheepdog dog,23,other
+Old English Sheepdog,A close-up photo of a Old English Sheepdog dog looking at the camera,21,other
+Shetland Sheepdog,A realistic image of a Shetland Sheepdog dog,0,other
+Shetland Sheepdog,A realistic image of a Shetland Sheepdog dog,1,other
+Shetland Sheepdog,A realistic image of a Shetland Sheepdog dog,2,other
+Shetland Sheepdog,A realistic image of a Shetland Sheepdog dog,4,other
+Shetland Sheepdog,A realistic image of a Shetland Sheepdog dog,5,other
+Shetland Sheepdog,A photo of a Shetland Sheepdog dog in a grassy field,0,other
+Shetland Sheepdog,A photo of a Shetland Sheepdog dog in a grassy field,1,other
+Shetland Sheepdog,A photo of a Shetland Sheepdog dog in a grassy field,2,other
+Shetland Sheepdog,A photo of a Shetland Sheepdog dog in a grassy field,3,other
+Shetland Sheepdog,A photo of a Shetland Sheepdog dog in a grassy field,4,other
+Shetland Sheepdog,A studio photograph of a Shetland Sheepdog dog on a plain background,0,other
+Shetland Sheepdog,A studio photograph of a Shetland Sheepdog dog on a plain background,1,other
+Shetland Sheepdog,A studio photograph of a Shetland Sheepdog dog on a plain background,2,other
+Shetland Sheepdog,A studio photograph of a Shetland Sheepdog dog on a plain background,3,other
+Shetland Sheepdog,A studio photograph of a Shetland Sheepdog dog on a plain background,4,other
+Shetland Sheepdog,An action shot of a Shetland Sheepdog dog running outdoors,0,other
+Shetland Sheepdog,An action shot of a Shetland Sheepdog dog running outdoors,1,other
+Shetland Sheepdog,An action shot of a Shetland Sheepdog dog running outdoors,2,other
+Shetland Sheepdog,An action shot of a Shetland Sheepdog dog running outdoors,3,other
+Shetland Sheepdog,An action shot of a Shetland Sheepdog dog running outdoors,4,other
+Shetland Sheepdog,A close-up photo of a Shetland Sheepdog dog looking at the camera,5,other
+Shetland Sheepdog,A close-up photo of a Shetland Sheepdog dog looking at the camera,9,other
+Shetland Sheepdog,A close-up photo of a Shetland Sheepdog dog looking at the camera,11,other
+Shetland Sheepdog,A close-up photo of a Shetland Sheepdog dog looking at the camera,21,other
+Shetland Sheepdog,A close-up photo of a Shetland Sheepdog dog looking at the camera,22,other
+Collie,A realistic image of a Collie dog,0,other
+Collie,A realistic image of a Collie dog,3,other
+Collie,A realistic image of a Collie dog,5,other
+Collie,A realistic image of a Collie dog,6,other
+Collie,A realistic image of a Collie dog,7,other
+Collie,A photo of a Collie dog in a grassy field,2,other
+Collie,A photo of a Collie dog in a grassy field,6,other
+Collie,A studio photograph of a Collie dog on a plain background,0,other
+Collie,A studio photograph of a Collie dog on a plain background,2,other
+Collie,A studio photograph of a Collie dog on a plain background,5,other
+Collie,A studio photograph of a Collie dog on a plain background,9,other
+Collie,An action shot of a Collie dog running outdoors,1,other
+Collie,An action shot of a Collie dog running outdoors,2,other
+Collie,An action shot of a Collie dog running outdoors,3,other
+Collie,An action shot of a Collie dog running outdoors,5,other
+Collie,An action shot of a Collie dog running outdoors,7,other
+Collie,A close-up photo of a Collie dog looking at the camera,4,other
+Collie,A photo of a Collie dog in a grassy field,17,other
+Collie,A studio photograph of a Collie dog on a plain background,16,other
+Collie,A close-up photo of a Collie dog looking at the camera,10,other
+Collie,A close-up photo of a Collie dog looking at the camera,11,other
+Collie,A close-up photo of a Collie dog looking at the camera,17,other
+Collie,A close-up photo of a Collie dog looking at the camera,19,other
+Collie,A photo of a Collie dog in a grassy field,22,other
+Collie,A photo of a Collie dog in a grassy field,23,other
+Border Collie,A realistic image of a Border Collie dog,0,other
+Border Collie,A realistic image of a Border Collie dog,1,other
+Border Collie,A realistic image of a Border Collie dog,2,other
+Border Collie,A realistic image of a Border Collie dog,3,other
+Border Collie,A realistic image of a Border Collie dog,4,other
+Border Collie,A photo of a Border Collie dog in a grassy field,0,other
+Border Collie,A photo of a Border Collie dog in a grassy field,2,other
+Border Collie,A photo of a Border Collie dog in a grassy field,3,other
+Border Collie,A photo of a Border Collie dog in a grassy field,4,other
+Border Collie,A photo of a Border Collie dog in a grassy field,6,other
+Border Collie,A studio photograph of a Border Collie dog on a plain background,0,other
+Border Collie,A studio photograph of a Border Collie dog on a plain background,1,other
+Border Collie,A studio photograph of a Border Collie dog on a plain background,2,other
+Border Collie,A studio photograph of a Border Collie dog on a plain background,3,other
+Border Collie,A studio photograph of a Border Collie dog on a plain background,4,other
+Border Collie,An action shot of a Border Collie dog running outdoors,0,other
+Border Collie,An action shot of a Border Collie dog running outdoors,1,other
+Border Collie,An action shot of a Border Collie dog running outdoors,2,other
+Border Collie,An action shot of a Border Collie dog running outdoors,4,other
+Border Collie,An action shot of a Border Collie dog running outdoors,5,other
+Border Collie,A close-up photo of a Border Collie dog looking at the camera,0,other
+Border Collie,A close-up photo of a Border Collie dog looking at the camera,1,other
+Border Collie,A close-up photo of a Border Collie dog looking at the camera,2,other
+Border Collie,A close-up photo of a Border Collie dog looking at the camera,3,other
+Border Collie,A close-up photo of a Border Collie dog looking at the camera,4,other
+Rottweiler,A realistic image of a Rottweiler dog,0,other
+Rottweiler,A realistic image of a Rottweiler dog,1,other
+Rottweiler,A realistic image of a Rottweiler dog,2,other
+Rottweiler,A realistic image of a Rottweiler dog,3,other
+Rottweiler,A realistic image of a Rottweiler dog,4,other
+Rottweiler,A photo of a Rottweiler dog in a grassy field,0,other
+Rottweiler,A photo of a Rottweiler dog in a grassy field,1,other
+Rottweiler,A photo of a Rottweiler dog in a grassy field,2,other
+Rottweiler,A photo of a Rottweiler dog in a grassy field,3,other
+Rottweiler,A photo of a Rottweiler dog in a grassy field,5,other
+Rottweiler,A studio photograph of a Rottweiler dog on a plain background,0,other
+Rottweiler,A studio photograph of a Rottweiler dog on a plain background,1,other
+Rottweiler,A studio photograph of a Rottweiler dog on a plain background,2,other
+Rottweiler,A studio photograph of a Rottweiler dog on a plain background,3,other
+Rottweiler,A studio photograph of a Rottweiler dog on a plain background,4,other
+Rottweiler,An action shot of a Rottweiler dog running outdoors,0,other
+Rottweiler,An action shot of a Rottweiler dog running outdoors,1,other
+Rottweiler,An action shot of a Rottweiler dog running outdoors,2,other
+Rottweiler,An action shot of a Rottweiler dog running outdoors,3,other
+Rottweiler,An action shot of a Rottweiler dog running outdoors,4,other
+Rottweiler,A close-up photo of a Rottweiler dog looking at the camera,0,other
+Rottweiler,A close-up photo of a Rottweiler dog looking at the camera,1,other
+Rottweiler,A close-up photo of a Rottweiler dog looking at the camera,2,other
+Rottweiler,A close-up photo of a Rottweiler dog looking at the camera,3,other
+Rottweiler,A close-up photo of a Rottweiler dog looking at the camera,4,other
+German Shepherd,A realistic image of a German Shepherd dog,0,other
+German Shepherd,A realistic image of a German Shepherd dog,1,other
+German Shepherd,A realistic image of a German Shepherd dog,2,other
+German Shepherd,A realistic image of a German Shepherd dog,3,other
+German Shepherd,A realistic image of a German Shepherd dog,4,other
+German Shepherd,A photo of a German Shepherd dog in a grassy field,0,other
+German Shepherd,A photo of a German Shepherd dog in a grassy field,1,other
+German Shepherd,A photo of a German Shepherd dog in a grassy field,2,other
+German Shepherd,A photo of a German Shepherd dog in a grassy field,3,other
+German Shepherd,A photo of a German Shepherd dog in a grassy field,4,other
+German Shepherd,A studio photograph of a German Shepherd dog on a plain background,0,other
+German Shepherd,A studio photograph of a German Shepherd dog on a plain background,1,other
+German Shepherd,A studio photograph of a German Shepherd dog on a plain background,2,other
+German Shepherd,A studio photograph of a German Shepherd dog on a plain background,3,other
+German Shepherd,A studio photograph of a German Shepherd dog on a plain background,4,other
+German Shepherd,An action shot of a German Shepherd dog running outdoors,0,other
+German Shepherd,An action shot of a German Shepherd dog running outdoors,1,other
+German Shepherd,An action shot of a German Shepherd dog running outdoors,3,other
+German Shepherd,An action shot of a German Shepherd dog running outdoors,4,other
+German Shepherd,An action shot of a German Shepherd dog running outdoors,5,other
+German Shepherd,A close-up photo of a German Shepherd dog looking at the camera,0,other
+German Shepherd,A close-up photo of a German Shepherd dog looking at the camera,1,other
+German Shepherd,A close-up photo of a German Shepherd dog looking at the camera,3,other
+German Shepherd,A close-up photo of a German Shepherd dog looking at the camera,4,other
+German Shepherd,A close-up photo of a German Shepherd dog looking at the camera,5,other
+Doberman,A realistic image of a Doberman dog,0,other
+Doberman,A realistic image of a Doberman dog,1,other
+Doberman,A realistic image of a Doberman dog,2,other
+Doberman,A realistic image of a Doberman dog,3,other
+Doberman,A realistic image of a Doberman dog,4,other
+Doberman,A photo of a Doberman dog in a grassy field,0,other
+Doberman,A photo of a Doberman dog in a grassy field,1,other
+Doberman,A photo of a Doberman dog in a grassy field,2,other
+Doberman,A photo of a Doberman dog in a grassy field,3,other
+Doberman,A photo of a Doberman dog in a grassy field,4,other
+Doberman,A studio photograph of a Doberman dog on a plain background,0,other
+Doberman,A studio photograph of a Doberman dog on a plain background,1,other
+Doberman,A studio photograph of a Doberman dog on a plain background,2,other
+Doberman,A studio photograph of a Doberman dog on a plain background,3,other
+Doberman,A studio photograph of a Doberman dog on a plain background,4,other
+Doberman,An action shot of a Doberman dog running outdoors,0,other
+Doberman,An action shot of a Doberman dog running outdoors,1,other
+Doberman,An action shot of a Doberman dog running outdoors,2,other
+Doberman,An action shot of a Doberman dog running outdoors,3,other
+Doberman,An action shot of a Doberman dog running outdoors,4,other
+Doberman,A close-up photo of a Doberman dog looking at the camera,1,other
+Doberman,A close-up photo of a Doberman dog looking at the camera,2,other
+Doberman,A close-up photo of a Doberman dog looking at the camera,3,other
+Doberman,A close-up photo of a Doberman dog looking at the camera,4,other
+Doberman,A close-up photo of a Doberman dog looking at the camera,5,other
+Miniature Pinscher,A realistic image of a Miniature Pinscher dog,0,other
+Miniature Pinscher,A realistic image of a Miniature Pinscher dog,1,other
+Miniature Pinscher,A realistic image of a Miniature Pinscher dog,2,other
+Miniature Pinscher,A realistic image of a Miniature Pinscher dog,3,other
+Miniature Pinscher,A realistic image of a Miniature Pinscher dog,5,other
+Miniature Pinscher,A photo of a Miniature Pinscher dog in a grassy field,0,other
+Miniature Pinscher,A photo of a Miniature Pinscher dog in a grassy field,1,other
+Miniature Pinscher,A photo of a Miniature Pinscher dog in a grassy field,2,other
+Miniature Pinscher,A photo of a Miniature Pinscher dog in a grassy field,3,other
+Miniature Pinscher,A photo of a Miniature Pinscher dog in a grassy field,4,other
+Miniature Pinscher,A studio photograph of a Miniature Pinscher dog on a plain background,0,other
+Miniature Pinscher,A studio photograph of a Miniature Pinscher dog on a plain background,1,other
+Miniature Pinscher,A studio photograph of a Miniature Pinscher dog on a plain background,2,other
+Miniature Pinscher,A studio photograph of a Miniature Pinscher dog on a plain background,3,other
+Miniature Pinscher,A studio photograph of a Miniature Pinscher dog on a plain background,4,other
+Miniature Pinscher,An action shot of a Miniature Pinscher dog running outdoors,0,other
+Miniature Pinscher,An action shot of a Miniature Pinscher dog running outdoors,1,other
+Miniature Pinscher,An action shot of a Miniature Pinscher dog running outdoors,2,other
+Miniature Pinscher,An action shot of a Miniature Pinscher dog running outdoors,4,other
+Miniature Pinscher,An action shot of a Miniature Pinscher dog running outdoors,5,other
+Miniature Pinscher,A close-up photo of a Miniature Pinscher dog looking at the camera,0,other
+Miniature Pinscher,A close-up photo of a Miniature Pinscher dog looking at the camera,1,other
+Miniature Pinscher,A close-up photo of a Miniature Pinscher dog looking at the camera,2,other
+Miniature Pinscher,A close-up photo of a Miniature Pinscher dog looking at the camera,3,other
+Miniature Pinscher,A close-up photo of a Miniature Pinscher dog looking at the camera,4,other
+Greater Swiss Mountain Dog,A realistic image of a Greater Swiss Mountain Dog dog,0,other
+Greater Swiss Mountain Dog,A realistic image of a Greater Swiss Mountain Dog dog,1,other
+Greater Swiss Mountain Dog,A realistic image of a Greater Swiss Mountain Dog dog,3,other
+Greater Swiss Mountain Dog,A realistic image of a Greater Swiss Mountain Dog dog,4,other
+Greater Swiss Mountain Dog,A realistic image of a Greater Swiss Mountain Dog dog,5,other
+Greater Swiss Mountain Dog,A photo of a Greater Swiss Mountain Dog dog in a grassy field,1,other
+Greater Swiss Mountain Dog,A photo of a Greater Swiss Mountain Dog dog in a grassy field,2,other
+Greater Swiss Mountain Dog,A photo of a Greater Swiss Mountain Dog dog in a grassy field,5,other
+Greater Swiss Mountain Dog,A photo of a Greater Swiss Mountain Dog dog in a grassy field,6,other
+Greater Swiss Mountain Dog,A photo of a Greater Swiss Mountain Dog dog in a grassy field,7,other
+Greater Swiss Mountain Dog,A studio photograph of a Greater Swiss Mountain Dog dog on a plain background,0,other
+Greater Swiss Mountain Dog,A studio photograph of a Greater Swiss Mountain Dog dog on a plain background,2,other
+Greater Swiss Mountain Dog,A studio photograph of a Greater Swiss Mountain Dog dog on a plain background,3,other
+Greater Swiss Mountain Dog,A studio photograph of a Greater Swiss Mountain Dog dog on a plain background,4,other
+Greater Swiss Mountain Dog,A studio photograph of a Greater Swiss Mountain Dog dog on a plain background,5,other
+Greater Swiss Mountain Dog,An action shot of a Greater Swiss Mountain Dog dog running outdoors,2,other
+Greater Swiss Mountain Dog,An action shot of a Greater Swiss Mountain Dog dog running outdoors,3,other
+Greater Swiss Mountain Dog,An action shot of a Greater Swiss Mountain Dog dog running outdoors,6,other
+Greater Swiss Mountain Dog,An action shot of a Greater Swiss Mountain Dog dog running outdoors,9,other
+Greater Swiss Mountain Dog,A close-up photo of a Greater Swiss Mountain Dog dog looking at the camera,3,other
+Greater Swiss Mountain Dog,A close-up photo of a Greater Swiss Mountain Dog dog looking at the camera,4,other
+Greater Swiss Mountain Dog,A close-up photo of a Greater Swiss Mountain Dog dog looking at the camera,5,other
+Greater Swiss Mountain Dog,A close-up photo of a Greater Swiss Mountain Dog dog looking at the camera,7,other
+Greater Swiss Mountain Dog,A close-up photo of a Greater Swiss Mountain Dog dog looking at the camera,9,other
+Greater Swiss Mountain Dog,An action shot of a Greater Swiss Mountain Dog dog running outdoors,11,other
+Bernese Mountain Dog,A realistic image of a Bernese Mountain Dog dog,0,other
+Bernese Mountain Dog,A realistic image of a Bernese Mountain Dog dog,1,other
+Bernese Mountain Dog,A realistic image of a Bernese Mountain Dog dog,2,other
+Bernese Mountain Dog,A realistic image of a Bernese Mountain Dog dog,3,other
+Bernese Mountain Dog,A realistic image of a Bernese Mountain Dog dog,5,other
+Bernese Mountain Dog,A photo of a Bernese Mountain Dog dog in a grassy field,0,other
+Bernese Mountain Dog,A photo of a Bernese Mountain Dog dog in a grassy field,1,other
+Bernese Mountain Dog,A photo of a Bernese Mountain Dog dog in a grassy field,2,other
+Bernese Mountain Dog,A photo of a Bernese Mountain Dog dog in a grassy field,3,other
+Bernese Mountain Dog,A photo of a Bernese Mountain Dog dog in a grassy field,4,other
+Bernese Mountain Dog,A studio photograph of a Bernese Mountain Dog dog on a plain background,0,other
+Bernese Mountain Dog,A studio photograph of a Bernese Mountain Dog dog on a plain background,1,other
+Bernese Mountain Dog,A studio photograph of a Bernese Mountain Dog dog on a plain background,2,other
+Bernese Mountain Dog,A studio photograph of a Bernese Mountain Dog dog on a plain background,3,other
+Bernese Mountain Dog,A studio photograph of a Bernese Mountain Dog dog on a plain background,4,other
+Bernese Mountain Dog,An action shot of a Bernese Mountain Dog dog running outdoors,0,other
+Bernese Mountain Dog,An action shot of a Bernese Mountain Dog dog running outdoors,1,other
+Bernese Mountain Dog,An action shot of a Bernese Mountain Dog dog running outdoors,2,other
+Bernese Mountain Dog,An action shot of a Bernese Mountain Dog dog running outdoors,3,other
+Bernese Mountain Dog,An action shot of a Bernese Mountain Dog dog running outdoors,5,other
+Bernese Mountain Dog,A close-up photo of a Bernese Mountain Dog dog looking at the camera,0,other
+Bernese Mountain Dog,A close-up photo of a Bernese Mountain Dog dog looking at the camera,2,other
+Bernese Mountain Dog,A close-up photo of a Bernese Mountain Dog dog looking at the camera,5,other
+Bernese Mountain Dog,A close-up photo of a Bernese Mountain Dog dog looking at the camera,6,other
+Bernese Mountain Dog,A close-up photo of a Bernese Mountain Dog dog looking at the camera,8,other
+Boxer,A realistic image of a Boxer dog,0,other
+Boxer,A realistic image of a Boxer dog,1,other
+Boxer,A realistic image of a Boxer dog,3,other
+Boxer,A realistic image of a Boxer dog,4,other
+Boxer,A realistic image of a Boxer dog,5,other
+Boxer,A photo of a Boxer dog in a grassy field,0,other
+Boxer,A photo of a Boxer dog in a grassy field,1,other
+Boxer,A photo of a Boxer dog in a grassy field,2,other
+Boxer,A photo of a Boxer dog in a grassy field,4,other
+Boxer,A photo of a Boxer dog in a grassy field,5,other
+Boxer,A studio photograph of a Boxer dog on a plain background,0,other
+Boxer,A studio photograph of a Boxer dog on a plain background,1,other
+Boxer,A studio photograph of a Boxer dog on a plain background,2,other
+Boxer,A studio photograph of a Boxer dog on a plain background,3,other
+Boxer,A studio photograph of a Boxer dog on a plain background,4,other
+Boxer,An action shot of a Boxer dog running outdoors,0,other
+Boxer,An action shot of a Boxer dog running outdoors,1,other
+Boxer,An action shot of a Boxer dog running outdoors,2,other
+Boxer,An action shot of a Boxer dog running outdoors,4,other
+Boxer,An action shot of a Boxer dog running outdoors,5,other
+Boxer,A close-up photo of a Boxer dog looking at the camera,0,other
+Boxer,A close-up photo of a Boxer dog looking at the camera,1,other
+Boxer,A close-up photo of a Boxer dog looking at the camera,3,other
+Boxer,A close-up photo of a Boxer dog looking at the camera,4,other
+Boxer,A close-up photo of a Boxer dog looking at the camera,5,other
+Bull Mastiff,A realistic image of a Bull Mastiff dog,0,other
+Bull Mastiff,A realistic image of a Bull Mastiff dog,1,other
+Bull Mastiff,A realistic image of a Bull Mastiff dog,2,other
+Bull Mastiff,A realistic image of a Bull Mastiff dog,3,other
+Bull Mastiff,A realistic image of a Bull Mastiff dog,4,other
+Bull Mastiff,A photo of a Bull Mastiff dog in a grassy field,0,other
+Bull Mastiff,A photo of a Bull Mastiff dog in a grassy field,1,other
+Bull Mastiff,A photo of a Bull Mastiff dog in a grassy field,3,other
+Bull Mastiff,A photo of a Bull Mastiff dog in a grassy field,4,other
+Bull Mastiff,A photo of a Bull Mastiff dog in a grassy field,5,other
+Bull Mastiff,A studio photograph of a Bull Mastiff dog on a plain background,0,other
+Bull Mastiff,A studio photograph of a Bull Mastiff dog on a plain background,1,other
+Bull Mastiff,A studio photograph of a Bull Mastiff dog on a plain background,2,other
+Bull Mastiff,A studio photograph of a Bull Mastiff dog on a plain background,3,other
+Bull Mastiff,A studio photograph of a Bull Mastiff dog on a plain background,4,other
+Bull Mastiff,An action shot of a Bull Mastiff dog running outdoors,0,other
+Bull Mastiff,An action shot of a Bull Mastiff dog running outdoors,1,other
+Bull Mastiff,An action shot of a Bull Mastiff dog running outdoors,2,other
+Bull Mastiff,An action shot of a Bull Mastiff dog running outdoors,3,other
+Bull Mastiff,An action shot of a Bull Mastiff dog running outdoors,4,other
+Bull Mastiff,A close-up photo of a Bull Mastiff dog looking at the camera,0,other
+Bull Mastiff,A close-up photo of a Bull Mastiff dog looking at the camera,1,other
+Bull Mastiff,A close-up photo of a Bull Mastiff dog looking at the camera,3,other
+Bull Mastiff,A close-up photo of a Bull Mastiff dog looking at the camera,4,other
+Bull Mastiff,A close-up photo of a Bull Mastiff dog looking at the camera,5,other
+Tibetan Mastiff,A realistic image of a Tibetan Mastiff dog,1,other
+Tibetan Mastiff,A realistic image of a Tibetan Mastiff dog,2,other
+Tibetan Mastiff,A realistic image of a Tibetan Mastiff dog,3,other
+Tibetan Mastiff,A realistic image of a Tibetan Mastiff dog,5,other
+Tibetan Mastiff,A realistic image of a Tibetan Mastiff dog,6,other
+Tibetan Mastiff,A photo of a Tibetan Mastiff dog in a grassy field,1,other
+Tibetan Mastiff,A photo of a Tibetan Mastiff dog in a grassy field,2,other
+Tibetan Mastiff,A photo of a Tibetan Mastiff dog in a grassy field,5,other
+Tibetan Mastiff,A photo of a Tibetan Mastiff dog in a grassy field,6,other
+Tibetan Mastiff,A photo of a Tibetan Mastiff dog in a grassy field,9,other
+Tibetan Mastiff,A studio photograph of a Tibetan Mastiff dog on a plain background,0,other
+Tibetan Mastiff,A studio photograph of a Tibetan Mastiff dog on a plain background,2,other
+Tibetan Mastiff,A studio photograph of a Tibetan Mastiff dog on a plain background,3,other
+Tibetan Mastiff,A studio photograph of a Tibetan Mastiff dog on a plain background,4,other
+Tibetan Mastiff,A studio photograph of a Tibetan Mastiff dog on a plain background,5,other
+Tibetan Mastiff,An action shot of a Tibetan Mastiff dog running outdoors,0,other
+Tibetan Mastiff,An action shot of a Tibetan Mastiff dog running outdoors,1,other
+Tibetan Mastiff,An action shot of a Tibetan Mastiff dog running outdoors,3,other
+Tibetan Mastiff,An action shot of a Tibetan Mastiff dog running outdoors,4,other
+Tibetan Mastiff,An action shot of a Tibetan Mastiff dog running outdoors,5,other
+Tibetan Mastiff,A close-up photo of a Tibetan Mastiff dog looking at the camera,2,other
+Tibetan Mastiff,A close-up photo of a Tibetan Mastiff dog looking at the camera,6,other
+Tibetan Mastiff,A close-up photo of a Tibetan Mastiff dog looking at the camera,9,other
+Tibetan Mastiff,A close-up photo of a Tibetan Mastiff dog looking at the camera,11,other
+Tibetan Mastiff,A close-up photo of a Tibetan Mastiff dog looking at the camera,17,other
+French Bulldog,A realistic image of a French Bulldog dog,0,other
+French Bulldog,A realistic image of a French Bulldog dog,1,other
+French Bulldog,A realistic image of a French Bulldog dog,2,other
+French Bulldog,A realistic image of a French Bulldog dog,3,other
+French Bulldog,A realistic image of a French Bulldog dog,4,other
+French Bulldog,A photo of a French Bulldog dog in a grassy field,0,other
+French Bulldog,A photo of a French Bulldog dog in a grassy field,1,other
+French Bulldog,A photo of a French Bulldog dog in a grassy field,2,other
+French Bulldog,A photo of a French Bulldog dog in a grassy field,3,other
+French Bulldog,A photo of a French Bulldog dog in a grassy field,4,other
+French Bulldog,A studio photograph of a French Bulldog dog on a plain background,0,other
+French Bulldog,A studio photograph of a French Bulldog dog on a plain background,1,other
+French Bulldog,A studio photograph of a French Bulldog dog on a plain background,2,other
+French Bulldog,A studio photograph of a French Bulldog dog on a plain background,3,other
+French Bulldog,A studio photograph of a French Bulldog dog on a plain background,4,other
+French Bulldog,An action shot of a French Bulldog dog running outdoors,0,other
+French Bulldog,An action shot of a French Bulldog dog running outdoors,1,other
+French Bulldog,An action shot of a French Bulldog dog running outdoors,2,other
+French Bulldog,An action shot of a French Bulldog dog running outdoors,3,other
+French Bulldog,An action shot of a French Bulldog dog running outdoors,4,other
+French Bulldog,A close-up photo of a French Bulldog dog looking at the camera,1,other
+French Bulldog,A close-up photo of a French Bulldog dog looking at the camera,4,other
+French Bulldog,A close-up photo of a French Bulldog dog looking at the camera,5,other
+French Bulldog,A close-up photo of a French Bulldog dog looking at the camera,6,other
+French Bulldog,A close-up photo of a French Bulldog dog looking at the camera,7,other
+Great Dane,A realistic image of a Great Dane dog,3,other
+Great Dane,A realistic image of a Great Dane dog,4,other
+Great Dane,A realistic image of a Great Dane dog,5,other
+Great Dane,A realistic image of a Great Dane dog,6,other
+Great Dane,A realistic image of a Great Dane dog,7,other
+Great Dane,A photo of a Great Dane dog in a grassy field,0,other
+Great Dane,A photo of a Great Dane dog in a grassy field,1,other
+Great Dane,A photo of a Great Dane dog in a grassy field,2,other
+Great Dane,A photo of a Great Dane dog in a grassy field,3,other
+Great Dane,A photo of a Great Dane dog in a grassy field,4,other
+Great Dane,A studio photograph of a Great Dane dog on a plain background,0,other
+Great Dane,A studio photograph of a Great Dane dog on a plain background,2,other
+Great Dane,A studio photograph of a Great Dane dog on a plain background,3,other
+Great Dane,A studio photograph of a Great Dane dog on a plain background,5,other
+Great Dane,A studio photograph of a Great Dane dog on a plain background,6,other
+Great Dane,An action shot of a Great Dane dog running outdoors,2,other
+Great Dane,An action shot of a Great Dane dog running outdoors,4,other
+Great Dane,An action shot of a Great Dane dog running outdoors,5,other
+Great Dane,An action shot of a Great Dane dog running outdoors,6,other
+Great Dane,An action shot of a Great Dane dog running outdoors,9,other
+Great Dane,A close-up photo of a Great Dane dog looking at the camera,1,other
+Great Dane,A close-up photo of a Great Dane dog looking at the camera,4,other
+Great Dane,A close-up photo of a Great Dane dog looking at the camera,11,other
+Great Dane,A close-up photo of a Great Dane dog looking at the camera,14,other
+Great Dane,A close-up photo of a Great Dane dog looking at the camera,16,other
+Saint Bernard,A realistic image of a Saint Bernard dog,0,other
+Saint Bernard,A realistic image of a Saint Bernard dog,1,other
+Saint Bernard,A realistic image of a Saint Bernard dog,2,other
+Saint Bernard,A realistic image of a Saint Bernard dog,3,other
+Saint Bernard,A realistic image of a Saint Bernard dog,4,other
+Saint Bernard,A photo of a Saint Bernard dog in a grassy field,0,other
+Saint Bernard,A photo of a Saint Bernard dog in a grassy field,1,other
+Saint Bernard,A photo of a Saint Bernard dog in a grassy field,2,other
+Saint Bernard,A photo of a Saint Bernard dog in a grassy field,3,other
+Saint Bernard,A photo of a Saint Bernard dog in a grassy field,4,other
+Saint Bernard,A studio photograph of a Saint Bernard dog on a plain background,0,other
+Saint Bernard,A studio photograph of a Saint Bernard dog on a plain background,1,other
+Saint Bernard,A studio photograph of a Saint Bernard dog on a plain background,2,other
+Saint Bernard,A studio photograph of a Saint Bernard dog on a plain background,3,other
+Saint Bernard,A studio photograph of a Saint Bernard dog on a plain background,4,other
+Saint Bernard,An action shot of a Saint Bernard dog running outdoors,0,other
+Saint Bernard,An action shot of a Saint Bernard dog running outdoors,1,other
+Saint Bernard,An action shot of a Saint Bernard dog running outdoors,2,other
+Saint Bernard,An action shot of a Saint Bernard dog running outdoors,3,other
+Saint Bernard,An action shot of a Saint Bernard dog running outdoors,4,other
+Saint Bernard,A close-up photo of a Saint Bernard dog looking at the camera,0,other
+Saint Bernard,A close-up photo of a Saint Bernard dog looking at the camera,1,other
+Saint Bernard,A close-up photo of a Saint Bernard dog looking at the camera,2,other
+Saint Bernard,A close-up photo of a Saint Bernard dog looking at the camera,3,other
+Saint Bernard,A close-up photo of a Saint Bernard dog looking at the camera,4,other
+Malamute,A realistic image of a Malamute dog,4,other
+Malamute,A realistic image of a Malamute dog,5,other
+Malamute,A realistic image of a Malamute dog,7,other
+Malamute,A realistic image of a Malamute dog,8,other
+Malamute,A realistic image of a Malamute dog,9,other
+Malamute,A studio photograph of a Malamute dog on a plain background,5,other
+Malamute,An action shot of a Malamute dog running outdoors,8,other
+Malamute,A close-up photo of a Malamute dog looking at the camera,5,other
+Malamute,A studio photograph of a Malamute dog on a plain background,16,other
+Malamute,An action shot of a Malamute dog running outdoors,13,other
+Malamute,An action shot of a Malamute dog running outdoors,15,other
+Malamute,A close-up photo of a Malamute dog looking at the camera,12,other
+Malamute,A close-up photo of a Malamute dog looking at the camera,15,other
+Malamute,A close-up photo of a Malamute dog looking at the camera,19,other
+Malamute,A photo of a Malamute dog in a grassy field,25,other
+Malamute,A photo of a Malamute dog in a grassy field,26,other
+Malamute,A photo of a Malamute dog in a grassy field,27,other
+Malamute,A studio photograph of a Malamute dog on a plain background,21,other
+Malamute,A studio photograph of a Malamute dog on a plain background,27,other
+Malamute,An action shot of a Malamute dog running outdoors,29,other
+Malamute,A close-up photo of a Malamute dog looking at the camera,21,other
+Malamute,A photo of a Malamute dog in a grassy field,37,other
+Malamute,A studio photograph of a Malamute dog on a plain background,32,other
+Malamute,An action shot of a Malamute dog running outdoors,32,other
+Malamute,A photo of a Malamute dog in a grassy field,41,other
+Siberian Husky,A realistic image of a Siberian Husky dog,1,other
+Siberian Husky,A realistic image of a Siberian Husky dog,2,other
+Siberian Husky,A realistic image of a Siberian Husky dog,3,other
+Siberian Husky,A realistic image of a Siberian Husky dog,4,other
+Siberian Husky,A realistic image of a Siberian Husky dog,5,other
+Siberian Husky,A photo of a Siberian Husky dog in a grassy field,0,other
+Siberian Husky,A photo of a Siberian Husky dog in a grassy field,1,other
+Siberian Husky,A photo of a Siberian Husky dog in a grassy field,2,other
+Siberian Husky,A photo of a Siberian Husky dog in a grassy field,4,other
+Siberian Husky,A photo of a Siberian Husky dog in a grassy field,5,other
+Siberian Husky,A studio photograph of a Siberian Husky dog on a plain background,1,other
+Siberian Husky,A studio photograph of a Siberian Husky dog on a plain background,2,other
+Siberian Husky,A studio photograph of a Siberian Husky dog on a plain background,3,other
+Siberian Husky,A studio photograph of a Siberian Husky dog on a plain background,4,other
+Siberian Husky,A studio photograph of a Siberian Husky dog on a plain background,5,other
+Siberian Husky,An action shot of a Siberian Husky dog running outdoors,1,other
+Siberian Husky,An action shot of a Siberian Husky dog running outdoors,2,other
+Siberian Husky,An action shot of a Siberian Husky dog running outdoors,3,other
+Siberian Husky,An action shot of a Siberian Husky dog running outdoors,4,other
+Siberian Husky,An action shot of a Siberian Husky dog running outdoors,5,other
+Siberian Husky,A close-up photo of a Siberian Husky dog looking at the camera,5,other
+Siberian Husky,A close-up photo of a Siberian Husky dog looking at the camera,6,other
+Siberian Husky,A close-up photo of a Siberian Husky dog looking at the camera,9,other
+Siberian Husky,A close-up photo of a Siberian Husky dog looking at the camera,10,other
+Siberian Husky,A close-up photo of a Siberian Husky dog looking at the camera,17,other
+Affenpinscher,A realistic image of a Affenpinscher dog,1,other
+Affenpinscher,A realistic image of a Affenpinscher dog,2,other
+Affenpinscher,A realistic image of a Affenpinscher dog,4,other
+Affenpinscher,A realistic image of a Affenpinscher dog,5,other
+Affenpinscher,A realistic image of a Affenpinscher dog,9,other
+Affenpinscher,A photo of a Affenpinscher dog in a grassy field,1,other
+Affenpinscher,A photo of a Affenpinscher dog in a grassy field,2,other
+Affenpinscher,A photo of a Affenpinscher dog in a grassy field,3,other
+Affenpinscher,A photo of a Affenpinscher dog in a grassy field,5,other
+Affenpinscher,A photo of a Affenpinscher dog in a grassy field,9,other
+Affenpinscher,A studio photograph of a Affenpinscher dog on a plain background,1,other
+Affenpinscher,A studio photograph of a Affenpinscher dog on a plain background,2,other
+Affenpinscher,An action shot of a Affenpinscher dog running outdoors,0,other
+Affenpinscher,An action shot of a Affenpinscher dog running outdoors,1,other
+Affenpinscher,An action shot of a Affenpinscher dog running outdoors,2,other
+Affenpinscher,An action shot of a Affenpinscher dog running outdoors,5,other
+Affenpinscher,An action shot of a Affenpinscher dog running outdoors,8,other
+Affenpinscher,A close-up photo of a Affenpinscher dog looking at the camera,1,other
+Affenpinscher,A close-up photo of a Affenpinscher dog looking at the camera,9,other
+Affenpinscher,A studio photograph of a Affenpinscher dog on a plain background,10,other
+Affenpinscher,A studio photograph of a Affenpinscher dog on a plain background,13,other
+Affenpinscher,A studio photograph of a Affenpinscher dog on a plain background,15,other
+Affenpinscher,A close-up photo of a Affenpinscher dog looking at the camera,11,other
+Affenpinscher,A close-up photo of a Affenpinscher dog looking at the camera,12,other
+Affenpinscher,A close-up photo of a Affenpinscher dog looking at the camera,13,other
+Basenji,A realistic image of a Basenji dog,1,other
+Basenji,A realistic image of a Basenji dog,4,other
+Basenji,A realistic image of a Basenji dog,6,other
+Basenji,A realistic image of a Basenji dog,7,other
+Basenji,A realistic image of a Basenji dog,8,other
+Basenji,A photo of a Basenji dog in a grassy field,0,other
+Basenji,A photo of a Basenji dog in a grassy field,1,other
+Basenji,A photo of a Basenji dog in a grassy field,2,other
+Basenji,A photo of a Basenji dog in a grassy field,3,other
+Basenji,A photo of a Basenji dog in a grassy field,4,other
+Basenji,A studio photograph of a Basenji dog on a plain background,1,other
+Basenji,A studio photograph of a Basenji dog on a plain background,2,other
+Basenji,A studio photograph of a Basenji dog on a plain background,4,other
+Basenji,A studio photograph of a Basenji dog on a plain background,8,other
+Basenji,A studio photograph of a Basenji dog on a plain background,9,other
+Basenji,An action shot of a Basenji dog running outdoors,0,other
+Basenji,An action shot of a Basenji dog running outdoors,1,other
+Basenji,An action shot of a Basenji dog running outdoors,2,other
+Basenji,An action shot of a Basenji dog running outdoors,3,other
+Basenji,An action shot of a Basenji dog running outdoors,4,other
+Basenji,A close-up photo of a Basenji dog looking at the camera,1,other
+Basenji,A close-up photo of a Basenji dog looking at the camera,15,other
+Basenji,A close-up photo of a Basenji dog looking at the camera,16,other
+Basenji,A close-up photo of a Basenji dog looking at the camera,22,other
+Basenji,A close-up photo of a Basenji dog looking at the camera,26,other
+Pug,A realistic image of a Pug dog,0,other
+Pug,A realistic image of a Pug dog,1,other
+Pug,A realistic image of a Pug dog,2,other
+Pug,A realistic image of a Pug dog,3,other
+Pug,A realistic image of a Pug dog,4,other
+Pug,A photo of a Pug dog in a grassy field,0,other
+Pug,A photo of a Pug dog in a grassy field,1,other
+Pug,A photo of a Pug dog in a grassy field,2,other
+Pug,A photo of a Pug dog in a grassy field,3,other
+Pug,A photo of a Pug dog in a grassy field,4,other
+Pug,A studio photograph of a Pug dog on a plain background,0,other
+Pug,A studio photograph of a Pug dog on a plain background,1,other
+Pug,A studio photograph of a Pug dog on a plain background,2,other
+Pug,A studio photograph of a Pug dog on a plain background,3,other
+Pug,A studio photograph of a Pug dog on a plain background,4,other
+Pug,An action shot of a Pug dog running outdoors,0,other
+Pug,An action shot of a Pug dog running outdoors,1,other
+Pug,An action shot of a Pug dog running outdoors,2,other
+Pug,An action shot of a Pug dog running outdoors,3,other
+Pug,An action shot of a Pug dog running outdoors,4,other
+Pug,A close-up photo of a Pug dog looking at the camera,0,other
+Pug,A close-up photo of a Pug dog looking at the camera,1,other
+Pug,A close-up photo of a Pug dog looking at the camera,2,other
+Pug,A close-up photo of a Pug dog looking at the camera,3,other
+Pug,A close-up photo of a Pug dog looking at the camera,4,other
+Newfoundland,A realistic image of a Newfoundland dog,1,other
+Newfoundland,A realistic image of a Newfoundland dog,2,other
+Newfoundland,A realistic image of a Newfoundland dog,4,other
+Newfoundland,A realistic image of a Newfoundland dog,5,other
+Newfoundland,A realistic image of a Newfoundland dog,6,other
+Newfoundland,A photo of a Newfoundland dog in a grassy field,0,other
+Newfoundland,A photo of a Newfoundland dog in a grassy field,1,other
+Newfoundland,A photo of a Newfoundland dog in a grassy field,2,other
+Newfoundland,A photo of a Newfoundland dog in a grassy field,3,other
+Newfoundland,A photo of a Newfoundland dog in a grassy field,4,other
+Newfoundland,A studio photograph of a Newfoundland dog on a plain background,0,other
+Newfoundland,A studio photograph of a Newfoundland dog on a plain background,1,other
+Newfoundland,A studio photograph of a Newfoundland dog on a plain background,2,other
+Newfoundland,A studio photograph of a Newfoundland dog on a plain background,4,other
+Newfoundland,A studio photograph of a Newfoundland dog on a plain background,5,other
+Newfoundland,An action shot of a Newfoundland dog running outdoors,0,other
+Newfoundland,An action shot of a Newfoundland dog running outdoors,1,other
+Newfoundland,An action shot of a Newfoundland dog running outdoors,2,other
+Newfoundland,An action shot of a Newfoundland dog running outdoors,6,other
+Newfoundland,A close-up photo of a Newfoundland dog looking at the camera,0,other
+Newfoundland,A close-up photo of a Newfoundland dog looking at the camera,1,other
+Newfoundland,A close-up photo of a Newfoundland dog looking at the camera,2,other
+Newfoundland,A close-up photo of a Newfoundland dog looking at the camera,3,other
+Newfoundland,A close-up photo of a Newfoundland dog looking at the camera,4,other
+Newfoundland,An action shot of a Newfoundland dog running outdoors,12,other
+Great Pyrenees,A realistic image of a Great Pyrenees dog,0,other
+Great Pyrenees,A realistic image of a Great Pyrenees dog,1,other
+Great Pyrenees,A realistic image of a Great Pyrenees dog,3,other
+Great Pyrenees,A realistic image of a Great Pyrenees dog,5,other
+Great Pyrenees,A realistic image of a Great Pyrenees dog,6,other
+Great Pyrenees,A photo of a Great Pyrenees dog in a grassy field,2,other
+Great Pyrenees,A photo of a Great Pyrenees dog in a grassy field,3,other
+Great Pyrenees,A photo of a Great Pyrenees dog in a grassy field,5,other
+Great Pyrenees,A photo of a Great Pyrenees dog in a grassy field,6,other
+Great Pyrenees,A photo of a Great Pyrenees dog in a grassy field,7,other
+Great Pyrenees,A studio photograph of a Great Pyrenees dog on a plain background,0,other
+Great Pyrenees,A studio photograph of a Great Pyrenees dog on a plain background,3,other
+Great Pyrenees,A studio photograph of a Great Pyrenees dog on a plain background,5,other
+Great Pyrenees,A studio photograph of a Great Pyrenees dog on a plain background,6,other
+Great Pyrenees,A studio photograph of a Great Pyrenees dog on a plain background,7,other
+Great Pyrenees,An action shot of a Great Pyrenees dog running outdoors,0,other
+Great Pyrenees,An action shot of a Great Pyrenees dog running outdoors,2,other
+Great Pyrenees,An action shot of a Great Pyrenees dog running outdoors,3,other
+Great Pyrenees,An action shot of a Great Pyrenees dog running outdoors,6,other
+Great Pyrenees,An action shot of a Great Pyrenees dog running outdoors,7,other
+Great Pyrenees,A close-up photo of a Great Pyrenees dog looking at the camera,3,other
+Great Pyrenees,A close-up photo of a Great Pyrenees dog looking at the camera,4,other
+Great Pyrenees,A close-up photo of a Great Pyrenees dog looking at the camera,5,other
+Great Pyrenees,A close-up photo of a Great Pyrenees dog looking at the camera,6,other
+Great Pyrenees,A close-up photo of a Great Pyrenees dog looking at the camera,7,other
+Samoyed,A realistic image of a Samoyed dog,0,other
+Samoyed,A realistic image of a Samoyed dog,1,other
+Samoyed,A realistic image of a Samoyed dog,2,other
+Samoyed,A realistic image of a Samoyed dog,3,other
+Samoyed,A realistic image of a Samoyed dog,4,other
+Samoyed,A photo of a Samoyed dog in a grassy field,0,other
+Samoyed,A photo of a Samoyed dog in a grassy field,1,other
+Samoyed,A photo of a Samoyed dog in a grassy field,2,other
+Samoyed,A photo of a Samoyed dog in a grassy field,3,other
+Samoyed,A photo of a Samoyed dog in a grassy field,4,other
+Samoyed,A studio photograph of a Samoyed dog on a plain background,0,other
+Samoyed,A studio photograph of a Samoyed dog on a plain background,1,other
+Samoyed,A studio photograph of a Samoyed dog on a plain background,2,other
+Samoyed,A studio photograph of a Samoyed dog on a plain background,3,other
+Samoyed,A studio photograph of a Samoyed dog on a plain background,4,other
+Samoyed,An action shot of a Samoyed dog running outdoors,0,other
+Samoyed,An action shot of a Samoyed dog running outdoors,1,other
+Samoyed,An action shot of a Samoyed dog running outdoors,2,other
+Samoyed,An action shot of a Samoyed dog running outdoors,3,other
+Samoyed,An action shot of a Samoyed dog running outdoors,4,other
+Samoyed,A close-up photo of a Samoyed dog looking at the camera,0,other
+Samoyed,A close-up photo of a Samoyed dog looking at the camera,1,other
+Samoyed,A close-up photo of a Samoyed dog looking at the camera,2,other
+Samoyed,A close-up photo of a Samoyed dog looking at the camera,3,other
+Samoyed,A close-up photo of a Samoyed dog looking at the camera,6,other
+Pomeranian,A realistic image of a Pomeranian dog,0,other
+Pomeranian,A realistic image of a Pomeranian dog,1,other
+Pomeranian,A realistic image of a Pomeranian dog,2,other
+Pomeranian,A realistic image of a Pomeranian dog,3,other
+Pomeranian,A realistic image of a Pomeranian dog,4,other
+Pomeranian,A photo of a Pomeranian dog in a grassy field,0,other
+Pomeranian,A photo of a Pomeranian dog in a grassy field,1,other
+Pomeranian,A photo of a Pomeranian dog in a grassy field,2,other
+Pomeranian,A photo of a Pomeranian dog in a grassy field,4,other
+Pomeranian,A photo of a Pomeranian dog in a grassy field,5,other
+Pomeranian,A studio photograph of a Pomeranian dog on a plain background,0,other
+Pomeranian,A studio photograph of a Pomeranian dog on a plain background,1,other
+Pomeranian,A studio photograph of a Pomeranian dog on a plain background,2,other
+Pomeranian,A studio photograph of a Pomeranian dog on a plain background,3,other
+Pomeranian,A studio photograph of a Pomeranian dog on a plain background,4,other
+Pomeranian,An action shot of a Pomeranian dog running outdoors,0,other
+Pomeranian,An action shot of a Pomeranian dog running outdoors,1,other
+Pomeranian,An action shot of a Pomeranian dog running outdoors,2,other
+Pomeranian,An action shot of a Pomeranian dog running outdoors,3,other
+Pomeranian,An action shot of a Pomeranian dog running outdoors,4,other
+Pomeranian,A close-up photo of a Pomeranian dog looking at the camera,0,other
+Pomeranian,A close-up photo of a Pomeranian dog looking at the camera,1,other
+Pomeranian,A close-up photo of a Pomeranian dog looking at the camera,2,other
+Pomeranian,A close-up photo of a Pomeranian dog looking at the camera,3,other
+Pomeranian,A close-up photo of a Pomeranian dog looking at the camera,4,other
+Chow,A realistic image of a Chow dog,0,other
+Chow,A realistic image of a Chow dog,1,other
+Chow,A realistic image of a Chow dog,2,other
+Chow,A realistic image of a Chow dog,3,other
+Chow,A realistic image of a Chow dog,4,other
+Chow,A photo of a Chow dog in a grassy field,0,other
+Chow,A photo of a Chow dog in a grassy field,1,other
+Chow,A photo of a Chow dog in a grassy field,2,other
+Chow,A photo of a Chow dog in a grassy field,3,other
+Chow,A photo of a Chow dog in a grassy field,4,other
+Chow,A studio photograph of a Chow dog on a plain background,0,other
+Chow,A studio photograph of a Chow dog on a plain background,1,other
+Chow,A studio photograph of a Chow dog on a plain background,3,other
+Chow,A studio photograph of a Chow dog on a plain background,4,other
+Chow,A studio photograph of a Chow dog on a plain background,5,other
+Chow,An action shot of a Chow dog running outdoors,0,other
+Chow,An action shot of a Chow dog running outdoors,1,other
+Chow,An action shot of a Chow dog running outdoors,2,other
+Chow,An action shot of a Chow dog running outdoors,3,other
+Chow,An action shot of a Chow dog running outdoors,4,other
+Chow,A close-up photo of a Chow dog looking at the camera,0,other
+Chow,A close-up photo of a Chow dog looking at the camera,1,other
+Chow,A close-up photo of a Chow dog looking at the camera,2,other
+Chow,A close-up photo of a Chow dog looking at the camera,3,other
+Chow,A close-up photo of a Chow dog looking at the camera,4,other
+Keeshond,A realistic image of a Keeshond dog,1,other
+Keeshond,A realistic image of a Keeshond dog,2,other
+Keeshond,A realistic image of a Keeshond dog,3,other
+Keeshond,A realistic image of a Keeshond dog,4,other
+Keeshond,A realistic image of a Keeshond dog,5,other
+Keeshond,A photo of a Keeshond dog in a grassy field,0,other
+Keeshond,A photo of a Keeshond dog in a grassy field,1,other
+Keeshond,A photo of a Keeshond dog in a grassy field,3,other
+Keeshond,A photo of a Keeshond dog in a grassy field,4,other
+Keeshond,A photo of a Keeshond dog in a grassy field,5,other
+Keeshond,A studio photograph of a Keeshond dog on a plain background,0,other
+Keeshond,A studio photograph of a Keeshond dog on a plain background,1,other
+Keeshond,A studio photograph of a Keeshond dog on a plain background,2,other
+Keeshond,A studio photograph of a Keeshond dog on a plain background,3,other
+Keeshond,A studio photograph of a Keeshond dog on a plain background,4,other
+Keeshond,An action shot of a Keeshond dog running outdoors,1,other
+Keeshond,An action shot of a Keeshond dog running outdoors,2,other
+Keeshond,An action shot of a Keeshond dog running outdoors,3,other
+Keeshond,An action shot of a Keeshond dog running outdoors,4,other
+Keeshond,An action shot of a Keeshond dog running outdoors,5,other
+Keeshond,A close-up photo of a Keeshond dog looking at the camera,1,other
+Keeshond,A close-up photo of a Keeshond dog looking at the camera,2,other
+Keeshond,A close-up photo of a Keeshond dog looking at the camera,3,other
+Keeshond,A close-up photo of a Keeshond dog looking at the camera,4,other
+Keeshond,A close-up photo of a Keeshond dog looking at the camera,5,other
+Toy Poodle,A realistic image of a Toy Poodle dog,0,other
+Toy Poodle,A realistic image of a Toy Poodle dog,1,other
+Toy Poodle,A realistic image of a Toy Poodle dog,2,other
+Toy Poodle,A realistic image of a Toy Poodle dog,3,other
+Toy Poodle,A realistic image of a Toy Poodle dog,5,other
+Toy Poodle,A photo of a Toy Poodle dog in a grassy field,0,other
+Toy Poodle,A photo of a Toy Poodle dog in a grassy field,1,other
+Toy Poodle,A photo of a Toy Poodle dog in a grassy field,2,other
+Toy Poodle,A photo of a Toy Poodle dog in a grassy field,4,other
+Toy Poodle,A photo of a Toy Poodle dog in a grassy field,5,other
+Toy Poodle,A studio photograph of a Toy Poodle dog on a plain background,0,other
+Toy Poodle,A studio photograph of a Toy Poodle dog on a plain background,1,other
+Toy Poodle,A studio photograph of a Toy Poodle dog on a plain background,2,other
+Toy Poodle,A studio photograph of a Toy Poodle dog on a plain background,3,other
+Toy Poodle,A studio photograph of a Toy Poodle dog on a plain background,4,other
+Toy Poodle,An action shot of a Toy Poodle dog running outdoors,0,other
+Toy Poodle,An action shot of a Toy Poodle dog running outdoors,1,other
+Toy Poodle,An action shot of a Toy Poodle dog running outdoors,2,other
+Toy Poodle,An action shot of a Toy Poodle dog running outdoors,4,other
+Toy Poodle,An action shot of a Toy Poodle dog running outdoors,5,other
+Toy Poodle,A close-up photo of a Toy Poodle dog looking at the camera,1,other
+Toy Poodle,A close-up photo of a Toy Poodle dog looking at the camera,3,other
+Toy Poodle,A close-up photo of a Toy Poodle dog looking at the camera,4,other
+Toy Poodle,A close-up photo of a Toy Poodle dog looking at the camera,6,other
+Toy Poodle,A close-up photo of a Toy Poodle dog looking at the camera,8,other
+Standard Poodle,A realistic image of a Standard Poodle dog,0,other
+Standard Poodle,A realistic image of a Standard Poodle dog,1,other
+Standard Poodle,A realistic image of a Standard Poodle dog,2,other
+Standard Poodle,A realistic image of a Standard Poodle dog,3,other
+Standard Poodle,A realistic image of a Standard Poodle dog,4,other
+Standard Poodle,A photo of a Standard Poodle dog in a grassy field,0,other
+Standard Poodle,A photo of a Standard Poodle dog in a grassy field,1,other
+Standard Poodle,A photo of a Standard Poodle dog in a grassy field,2,other
+Standard Poodle,A photo of a Standard Poodle dog in a grassy field,4,other
+Standard Poodle,A photo of a Standard Poodle dog in a grassy field,5,other
+Standard Poodle,A studio photograph of a Standard Poodle dog on a plain background,0,other
+Standard Poodle,A studio photograph of a Standard Poodle dog on a plain background,1,other
+Standard Poodle,A studio photograph of a Standard Poodle dog on a plain background,2,other
+Standard Poodle,A studio photograph of a Standard Poodle dog on a plain background,3,other
+Standard Poodle,A studio photograph of a Standard Poodle dog on a plain background,4,other
+Standard Poodle,An action shot of a Standard Poodle dog running outdoors,1,other
+Standard Poodle,An action shot of a Standard Poodle dog running outdoors,4,other
+Standard Poodle,An action shot of a Standard Poodle dog running outdoors,6,other
+Standard Poodle,An action shot of a Standard Poodle dog running outdoors,8,other
+Standard Poodle,A close-up photo of a Standard Poodle dog looking at the camera,0,other
+Standard Poodle,A close-up photo of a Standard Poodle dog looking at the camera,1,other
+Standard Poodle,A close-up photo of a Standard Poodle dog looking at the camera,2,other
+Standard Poodle,A close-up photo of a Standard Poodle dog looking at the camera,3,other
+Standard Poodle,A close-up photo of a Standard Poodle dog looking at the camera,4,other
+Standard Poodle,An action shot of a Standard Poodle dog running outdoors,12,other
+Mexican Hairless,A realistic image of a Mexican Hairless dog,3,other
+Mexican Hairless,A realistic image of a Mexican Hairless dog,7,other
+Mexican Hairless,A realistic image of a Mexican Hairless dog,8,other
+Mexican Hairless,A realistic image of a Mexican Hairless dog,9,other
+Mexican Hairless,A photo of a Mexican Hairless dog in a grassy field,1,other
+Mexican Hairless,A photo of a Mexican Hairless dog in a grassy field,2,other
+Mexican Hairless,A photo of a Mexican Hairless dog in a grassy field,3,other
+Mexican Hairless,A photo of a Mexican Hairless dog in a grassy field,7,other
+Mexican Hairless,A photo of a Mexican Hairless dog in a grassy field,8,other
+Mexican Hairless,A studio photograph of a Mexican Hairless dog on a plain background,3,other
+Mexican Hairless,A studio photograph of a Mexican Hairless dog on a plain background,8,other
+Mexican Hairless,A studio photograph of a Mexican Hairless dog on a plain background,9,other
+Mexican Hairless,An action shot of a Mexican Hairless dog running outdoors,2,other
+Mexican Hairless,An action shot of a Mexican Hairless dog running outdoors,9,other
+Mexican Hairless,A close-up photo of a Mexican Hairless dog looking at the camera,0,other
+Mexican Hairless,A close-up photo of a Mexican Hairless dog looking at the camera,1,other
+Mexican Hairless,A close-up photo of a Mexican Hairless dog looking at the camera,2,other
+Mexican Hairless,A close-up photo of a Mexican Hairless dog looking at the camera,3,other
+Mexican Hairless,A close-up photo of a Mexican Hairless dog looking at the camera,8,other
+Mexican Hairless,A realistic image of a Mexican Hairless dog,13,other
+Mexican Hairless,A studio photograph of a Mexican Hairless dog on a plain background,10,other
+Mexican Hairless,A studio photograph of a Mexican Hairless dog on a plain background,12,other
+Mexican Hairless,An action shot of a Mexican Hairless dog running outdoors,10,other
+Mexican Hairless,An action shot of a Mexican Hairless dog running outdoors,11,other
+Mexican Hairless,An action shot of a Mexican Hairless dog running outdoors,20,other
+Dingo,A realistic image of a Dingo dog,0,other
+Dingo,A realistic image of a Dingo dog,1,other
+Dingo,A realistic image of a Dingo dog,2,other
+Dingo,A realistic image of a Dingo dog,3,other
+Dingo,A realistic image of a Dingo dog,4,other
+Dingo,A photo of a Dingo dog in a grassy field,0,other
+Dingo,A photo of a Dingo dog in a grassy field,1,other
+Dingo,A photo of a Dingo dog in a grassy field,4,other
+Dingo,A photo of a Dingo dog in a grassy field,5,other
+Dingo,A photo of a Dingo dog in a grassy field,6,other
+Dingo,A studio photograph of a Dingo dog on a plain background,0,other
+Dingo,A studio photograph of a Dingo dog on a plain background,1,other
+Dingo,A studio photograph of a Dingo dog on a plain background,2,other
+Dingo,A studio photograph of a Dingo dog on a plain background,4,other
+Dingo,A studio photograph of a Dingo dog on a plain background,5,other
+Dingo,An action shot of a Dingo dog running outdoors,0,other
+Dingo,An action shot of a Dingo dog running outdoors,1,other
+Dingo,An action shot of a Dingo dog running outdoors,2,other
+Dingo,An action shot of a Dingo dog running outdoors,3,other
+Dingo,An action shot of a Dingo dog running outdoors,4,other
+Dingo,A close-up photo of a Dingo dog looking at the camera,0,other
+Dingo,A close-up photo of a Dingo dog looking at the camera,1,other
+Dingo,A close-up photo of a Dingo dog looking at the camera,3,other
+Dingo,A close-up photo of a Dingo dog looking at the camera,4,other
+Dingo,A close-up photo of a Dingo dog looking at the camera,5,other
+Dhole,A realistic image of a Dhole dog,1,other
+Dhole,A realistic image of a Dhole dog,2,other
+Dhole,A realistic image of a Dhole dog,3,other
+Dhole,A realistic image of a Dhole dog,4,other
+Dhole,A realistic image of a Dhole dog,5,other
+Dhole,A photo of a Dhole dog in a grassy field,0,other
+Dhole,A photo of a Dhole dog in a grassy field,1,other
+Dhole,A photo of a Dhole dog in a grassy field,2,other
+Dhole,A photo of a Dhole dog in a grassy field,3,other
+Dhole,A photo of a Dhole dog in a grassy field,4,other
+Dhole,A studio photograph of a Dhole dog on a plain background,1,other
+Dhole,A studio photograph of a Dhole dog on a plain background,3,other
+Dhole,A studio photograph of a Dhole dog on a plain background,4,other
+Dhole,A studio photograph of a Dhole dog on a plain background,5,other
+Dhole,A studio photograph of a Dhole dog on a plain background,6,other
+Dhole,An action shot of a Dhole dog running outdoors,1,other
+Dhole,An action shot of a Dhole dog running outdoors,2,other
+Dhole,An action shot of a Dhole dog running outdoors,3,other
+Dhole,An action shot of a Dhole dog running outdoors,4,other
+Dhole,An action shot of a Dhole dog running outdoors,5,other
+Dhole,A close-up photo of a Dhole dog looking at the camera,1,other
+Dhole,A close-up photo of a Dhole dog looking at the camera,6,other
+Dhole,A close-up photo of a Dhole dog looking at the camera,7,other
+Dhole,A close-up photo of a Dhole dog looking at the camera,8,other
+Dhole,A close-up photo of a Dhole dog looking at the camera,14,other
+African Hunting Dog,A realistic image of a African Hunting Dog dog,1,other
+African Hunting Dog,A realistic image of a African Hunting Dog dog,2,other
+African Hunting Dog,A realistic image of a African Hunting Dog dog,3,other
+African Hunting Dog,A realistic image of a African Hunting Dog dog,4,other
+African Hunting Dog,A realistic image of a African Hunting Dog dog,5,other
+African Hunting Dog,A photo of a African Hunting Dog dog in a grassy field,0,other
+African Hunting Dog,A photo of a African Hunting Dog dog in a grassy field,1,other
+African Hunting Dog,A photo of a African Hunting Dog dog in a grassy field,2,other
+African Hunting Dog,A photo of a African Hunting Dog dog in a grassy field,3,other
+African Hunting Dog,A photo of a African Hunting Dog dog in a grassy field,4,other
+African Hunting Dog,A studio photograph of a African Hunting Dog dog on a plain background,1,other
+African Hunting Dog,A studio photograph of a African Hunting Dog dog on a plain background,3,other
+African Hunting Dog,A studio photograph of a African Hunting Dog dog on a plain background,4,other
+African Hunting Dog,A studio photograph of a African Hunting Dog dog on a plain background,5,other
+African Hunting Dog,A studio photograph of a African Hunting Dog dog on a plain background,6,other
+African Hunting Dog,An action shot of a African Hunting Dog dog running outdoors,0,other
+African Hunting Dog,An action shot of a African Hunting Dog dog running outdoors,1,other
+African Hunting Dog,An action shot of a African Hunting Dog dog running outdoors,2,other
+African Hunting Dog,An action shot of a African Hunting Dog dog running outdoors,3,other
+African Hunting Dog,An action shot of a African Hunting Dog dog running outdoors,4,other
+African Hunting Dog,A close-up photo of a African Hunting Dog dog looking at the camera,4,other
+African Hunting Dog,A close-up photo of a African Hunting Dog dog looking at the camera,8,other
+African Hunting Dog,A close-up photo of a African Hunting Dog dog looking at the camera,9,other
+African Hunting Dog,A close-up photo of a African Hunting Dog dog looking at the camera,11,other
+African Hunting Dog,A close-up photo of a African Hunting Dog dog looking at the camera,13,other
