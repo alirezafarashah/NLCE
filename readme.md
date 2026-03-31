@@ -31,7 +31,7 @@ NLCE is a training-free, three-stage pipeline that removes target concepts while
 1. (Optional) Creating conda environment
 
 ```bash
-conda create -n nlce python=3.10.13
+conda create -n nlce python=3.10
 conda activate nlce
 ```
 
